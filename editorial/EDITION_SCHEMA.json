@@ -1,0 +1,351 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chaimkohen5.github.io/hon-news-economy/editorial/EDITION_SCHEMA.json",
+  "title": "Hon Daily Edition",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "date",
+    "updated_at",
+    "status",
+    "stories",
+    "briefs",
+    "source_registry"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Edition date in Israel local calendar (Asia/Jerusalem)."
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "published"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "featured_story_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "stories": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/story"
+      }
+    },
+    "briefs": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/brief"
+      }
+    },
+    "market_snapshot": {
+      "$ref": "#/$defs/markets"
+    },
+    "watchlist": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_registry": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "editor_note": {
+      "type": "string"
+    }
+  },
+  "$defs": {
+    "story": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "category",
+        "type",
+        "importance",
+        "body",
+        "source_ids"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "dek": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string",
+          "enum": [
+            "ישראל",
+            "עולם",
+            "שווקים",
+            "טכנולוגיה",
+            "חברות",
+            "מדיניות",
+            "אנרגיה",
+            "נדלן",
+            "עבודה",
+            "צרכנות",
+            "אחר"
+          ]
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "news",
+            "analysis",
+            "explainer",
+            "market"
+          ]
+        },
+        "importance": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "published_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "body": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/block"
+          }
+        },
+        "context": {
+          "type": "string"
+        },
+        "significance": {
+          "type": "string"
+        },
+        "next_watch": {
+          "type": "string"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "block": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "text"
+      ],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "paragraph",
+            "heading",
+            "quote"
+          ]
+        },
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "brief": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "summary",
+        "category",
+        "source_ids"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "url",
+        "kind"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "primary",
+            "media",
+            "data",
+            "institution",
+            "other"
+          ]
+        },
+        "published_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "checked_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    },
+    "markets": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "updated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "note": {
+          "type": "string"
+        },
+        "indices": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/market_item"
+          }
+        },
+        "currencies": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/market_item"
+          }
+        },
+        "commodities": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/market_item"
+          }
+        },
+        "rates": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/market_item"
+          }
+        }
+      }
+    },
+    "market_item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "value",
+        "source_id"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "value": {
+          "type": [
+            "number",
+            "string"
+          ]
+        },
+        "change": {
+          "type": "number"
+        },
+        "change_pct": {
+          "type": "number"
+        },
+        "unit": {
+          "type": "string"
+        },
+        "currency": {
+          "type": "string"
+        },
+        "as_of": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "source_id": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
