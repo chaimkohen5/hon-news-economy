@@ -1,4 +1,13 @@
 {
   "schema_version": "1.0",
-  "editions": []
+  "editions": [
+    {
+      "date": "2026-11-25",
+      "title": "הון | מהדורת הכלכלה",
+      "url": "data/editions/2026-11-25.json",
+      "featured_story_id": "ai-markets",
+      "story_count": 5,
+      "brief_count": 2
+    }
+  ]
 }
