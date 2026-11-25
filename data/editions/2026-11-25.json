@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-25",
+  "updated_at": "2026-11-25T15:08:00Z",
+  "status": "published",
+  "title": "הון | מהדורת הכלכלה",
+  "subtitle": "חדשות הכלכלה המרכזיות בישראל ובעולם",
+  "featured_story_id": "ai-markets",
+  "stories": [
+    {
+      "id": "ai-markets",
+      "title": "החשש מהוצאות הבינה המלאכותית מטלטל שוב את מניות הטכנולוגיה",
+      "dek": "הירידות באסיה והלחץ על מניות AI משקפים מעבר לבחינת עלויות המימון והתשואה.",
+      "category": "שווקים",
+      "type": "news",
+      "importance": 5,
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "בורסות אסיה נסוגו בחדות ביום רביעי, כאשר מניות הקשורות לבינה מלאכותית הובילו את הירידות. המשקיעים מבקשים לבחון את היקף ההוצאות ואת הסיכוי שהן יניבו תשואה."
+        },
+        {
+          "type": "paragraph",
+          "text": "הירידות בלטו במניות יצרניות שבבים וספקיות טכנולוגיה. במקביל, בשוק האג״ח מתעוררות שאלות לגבי היקף החוב שחברות גדולות עשויות לגייס למימון תשתיות מחשוב."
+        },
+        {
+          "type": "paragraph",
+          "text": "לפי CNBC, היקף גיוסי החוב בענף AI והסביבה בשוק האשראי מעוררים דרישה להוכחות ברורות יותר לתשואה על השקעות."
+        }
+      ],
+      "significance": "המשקיעים בוחנים מחדש את היכולת של ההשקעות בתשתיות AI לייצר תשואה ותזרים.",
+      "source_ids": [
+        "aljazeera_ai",
+        "cnbc_ai_debt"
+      ]
+    },
+    {
+      "id": "us-inflation",
+      "title": "האינפלציה בארה״ב נותרה גבוהה ומקשה על הפחתת הריבית",
+      "dek": "מדד PCE עלה ב-3.8% בשנה עד אוקטובר, לפי דיווח על נתוני משרד המסחר.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 5,
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "האינפלציה בארה״ב הגיעה ל-3.8% בשנה עד אוקטובר, לפי מדד הוצאות הצריכה האישיות (PCE), מדד האינפלציה המועדף על הפדרל ריזרב. המדד עלה ב-0.3% בחודש, כך דיווח The Guardian."
+        },
+        {
+          "type": "paragraph",
+          "text": "הנתונים מגיעים לקראת החלטת הריבית הבאה של הפד בדצמבר ומחזקים את האתגר להתמודד עם אינפלציה שנותרה מעל יעד 2%."
+        }
+      ],
+      "significance": "אינפלציה עיקשת עלולה לצמצם את מרחב הפעולה של הפד ולהשפיע על תשואות האג״ח ועל תמחור נכסים.",
+      "source_ids": [
+        "guardian_pce"
+      ]
+    },
+    {
+      "id": "defense-exports",
+      "title": "ישראל מכוונת ליצוא ביטחוני של יותר מ-20 מיליארד דולר",
+      "dek": "משרד הביטחון מדווח על התרחבות במספר היצואנים ועל מאמצים לקצר תהליכי רישוי.",
+      "category": "ישראל",
+      "type": "news",
+      "importance": 4,
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "ישראל מכוונת להיקף יצוא ביטחוני של יותר מ-20 מיליארד דולר ב-2026, לפי דברי מנכ״ל משרד הביטחון אמיר ברעם בכנס לציון שני עשורים להקמת אגף הפיקוח על היצוא הביטחוני, כפי שדווח ב-Jerusalem Post."
+        },
+        {
+          "type": "paragraph",
+          "text": "לפי הנתונים שהוצגו בכנס, בישראל פועלים כ-1,300 יצואנים ביטחוניים, ובמהלך השנה נוספו לרישום כ-200 יצואנים וכ-400 מוצרים. המשרד מבקש להרחיב את בסיס התעשייה ולצמצם חסמים בתהליכי אישור."
+        },
+        {
+          "type": "paragraph",
+          "text": "היעד מגיע לאחר שיצוא הביטחון הסתכם ב-19.2 מיליארד דולר ב-2025, לפי הנתונים שהובאו בדיווח."
+        }
+      ],
+      "significance": "התרחבות היצוא עשויה להגדיל פעילות תעשייתית והשקעות, אך הענף תלוי ברישיונות, מדיניות חוץ וביקוש ממשלתי.",
+      "source_ids": [
+        "jpost_defense"
+      ]
+    },
+    {
+      "id": "phoenix-results",
+      "title": "הפניקס דיווחה על רווח כולל של 2.1 מיליארד שקל בתשעת החודשים הראשונים",
+      "dek": "החברה דיווחה על צמיחה בניהול נכסים ועל עסקה במועדון הנוסע המתמיד של אל על.",
+      "category": "חברות",
+      "type": "news",
+      "importance": 3,
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "הפניקס פיננסים דיווחה על רווח כולל של 2.104 מיליארד שקל בתשעת החודשים הראשונים של 2026, ועל הכנסה ליבה של 2.147 מיליארד שקל, עלייה של 8% לעומת התקופה המקבילה, לפי הודעת החברה."
+        },
+        {
+          "type": "paragraph",
+          "text": "נכסים מנוהלים הגיעו ל-672 מיליארד שקל בסוף ספטמבר, עלייה של 10% לעומת סוף 2025. הכנסות הליבה מפעילות ניהול נכסים גדלו ב-26% בתקופה."
+        },
+        {
+          "type": "paragraph",
+          "text": "הפניקס הודיעה על מכירת 25% ממניות חברת מועדון הנוסע המתמיד של אל על לפי שווי חברה של 4.2 מיליארד שקל; לפי הודעת החברה, העסקה צפויה להניב רווח נטו של כ-480 מיליון שקל."
+        }
+      ],
+      "significance": "הדוח מצביע על המשך צמיחה בניהול נכסים ועל מימושים כחלק מניהול ההון; הנתונים מבוססים על דיווח החברה.",
+      "source_ids": [
+        "phoenix_release"
+      ]
+    },
+    {
+      "id": "nanox-results",
+      "title": "ננוקס רשמה הפסד של 82 מיליון דולר בתשעת החודשים הראשונים",
+      "dek": "החברה הודיעה על התקדמות מסחרית במספר שווקים ועל תוכנית התייעלות.",
+      "category": "חברות",
+      "type": "news",
+      "importance": 3,
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Nano-X Imaging, החברה הישראלית בתחום הדימות הרפואי, דיווחה על הפסד נקי של 82 מיליון דולר בתשעת החודשים הראשונים של 2026, לעומת הפסד של 41.6 מיליון דולר בתקופה המקבילה אשתקד."
+        },
+        {
+          "type": "paragraph",
+          "text": "החברה דיווחה על התקדמות בפעילות מסחרית בארה״ב ובאמריקה הלטינית, לרבות משלוח מערכות לפרו וארגנטינה, ועל הסכמי הפצה לפתרונות AI רפואיים באיטליה ובתאילנד."
+        },
+        {
+          "type": "paragraph",
+          "text": "בדוחות נכללה ירידת ערך של נכסים בלתי מוחשיים בהיקף כ-40.7 מיליון דולר. החברה הודיעה גם על תוכנית להפחתת עלויות."
+        }
+      ],
+      "significance": "הדוח מדגיש את הפער בין התרחבות הפעילות המסחרית לבין ההפסדים והצורך בבקרה על הוצאות.",
+      "source_ids": [
+        "nanox_release"
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "id": "brief-tariffs",
+      "title": "ארה״ב מקדמת מכסים נוספים על 14 שותפות סחר",
+      "summary": "Reuters דיווחה על הצעת מכסים במסגרת מאבק בעודף כושר ייצור. הפרטים לא אומתו במקור מלא ולכן הפריט נשאר ברמת עדכון.",
+      "category": "סחר",
+      "url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+      "source_ids": [
+        "reuters_tariff_headline"
+      ]
+    },
+    {
+      "id": "brief-india",
+      "title": "ארה״ב מציעה תקרת מכס של 17% להודו במסגרת הסכם",
+      "summary": "לפי Reuters, תקרת המכס עשויה להיות 17% אם יושג הסכם סחר. ההצעה מותנית בהסכם.",
+      "category": "סחר",
+      "url": "https://www.reuters.com/world/india/us-cap-india-tariff-17-if-trade-deal-is-reached-ustr-says-2026-11-25/",
+      "source_ids": [
+        "reuters_india_headline"
+      ]
+    }
+  ],
+  "source_registry": [
+    {
+      "id": "aljazeera_ai",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom",
+      "kind": "media",
+      "checked_at": "2026-11-25T15:08:00Z"
+    },
+    {
+      "id": "cnbc_ai_debt",
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "kind": "media",
+      "checked_at": "2026-11-25T15:08:00Z"
+    },
+    {
+      "id": "guardian_pce",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+      "kind": "media",
+      "checked_at": "2026-11-25T15:08:00Z"
+    },
+    {
+      "id": "jpost_defense",
+      "name": "The Jerusalem Post",
+      "url": "https://www.jpost.com/defense-and-tech/article-916117",
+      "kind": "media",
+      "checked_at": "2026-11-25T15:08:00Z"
+    },
+    {
+      "id": "phoenix_release",
+      "name": "Phoenix Financial / PRNewswire",
+      "url": "https://www.tradingview.com/news/prnewswire:12bf2aa36b678:0-phoenix-financial-reports-continued-strategic-growth-in-the-first-nine-months-of-2026/",
+      "kind": "primary",
+      "checked_at": "2026-11-25T15:08:00Z",
+      "note": "הודעת החברה"
+    },
+    {
+      "id": "nanox_release",
+      "name": "Nano-X Imaging / GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410167/0/en/nanox-announces-third-quarter-2026-financial-results-and-provides-business-updates.html",
+      "kind": "primary",
+      "checked_at": "2026-11-25T15:08:00Z",
+      "note": "הודעת החברה"
+    },
+    {
+      "id": "reuters_tariff_headline",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+      "kind": "media",
+      "checked_at": "2026-11-25T15:08:00Z",
+      "note": "גישה מלאה לא התאפשרה; brief מוגבל לכותרת"
+    },
+    {
+      "id": "reuters_india_headline",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/india/us-cap-india-tariff-17-if-trade-deal-is-reached-ustr-says-2026-11-25/",
+      "kind": "media",
+      "checked_at": "2026-11-25T15:08:00Z",
+      "note": "גישה מלאה לא התאפשרה; brief מוגבל לכותרת"
+    }
+  ],
+  "editor_note": "מהדורת ניסיון ראשונה. כתבות Reuters לא נפתחו בגלל חסימת גישה; שני פריטי סחר נשארו תקצירי כותרת בלבד. נתוני חברות מבוססים על הודעותיהן. לא פורסמו נתוני שוק מספריים עקב היעדר אימות בזמן אמת."
+}
