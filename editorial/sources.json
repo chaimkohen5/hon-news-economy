@@ -1,0 +1,1147 @@
+{
+  "version": 1,
+  "purpose": "Discovery and verification pool for the daily economic news edition. Not every source should be crawled every day.",
+  "source_selection_rules": [
+    "Prioritize independent reporting and primary sources.",
+    "Use search for broad discovery; deep-read only shortlisted stories.",
+    "Never circumvent paywalls, access controls or robots restrictions.",
+    "Link to sources; produce original summaries and analysis."
+  ],
+  "sources": [
+    {
+      "id": "globes",
+      "name": "גלובס",
+      "domain": "globes.co.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "business_press",
+      "topics": [
+        "Israel",
+        "markets",
+        "companies",
+        "policy"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "calcalist",
+      "name": "כלכליסט",
+      "domain": "calcalist.co.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "business_press",
+      "topics": [
+        "Israel",
+        "markets",
+        "companies",
+        "technology"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "themarker",
+      "name": "TheMarker",
+      "domain": "themarker.com",
+      "region": "Israel",
+      "language": "he",
+      "type": "business_press",
+      "topics": [
+        "Israel",
+        "economy",
+        "markets",
+        "policy"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "bizportal",
+      "name": "Bizportal",
+      "domain": "bizportal.co.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "markets_press",
+      "topics": [
+        "markets",
+        "stocks",
+        "Israel"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "ynet_economy",
+      "name": "Ynet Economy",
+      "domain": "ynet.co.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "general_press",
+      "topics": [
+        "Israel",
+        "economy"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "walla_money",
+      "name": "Walla Money",
+      "domain": "walla.co.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "general_press",
+      "topics": [
+        "Israel",
+        "economy",
+        "consumer"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "kan_economy",
+      "name": "כאן חדשות",
+      "domain": "kan.org.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "general_press",
+      "topics": [
+        "Israel",
+        "policy",
+        "economy"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "mako_economy",
+      "name": "N12 / Mako",
+      "domain": "mako.co.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "general_press",
+      "topics": [
+        "Israel",
+        "economy",
+        "companies"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "bank_israel",
+      "name": "בנק ישראל",
+      "domain": "boi.org.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "primary",
+      "topics": [
+        "monetary_policy",
+        "data",
+        "banking"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "cbs_israel",
+      "name": "הלשכה המרכזית לסטטיסטיקה",
+      "domain": "cbs.gov.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "primary",
+      "topics": [
+        "data",
+        "inflation",
+        "labor",
+        "population"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "tase",
+      "name": "הבורסה לניירות ערך בתל אביב",
+      "domain": "tase.co.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "primary",
+      "topics": [
+        "markets",
+        "companies",
+        "data"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "isa",
+      "name": "רשות ניירות ערך",
+      "domain": "isa.gov.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "primary",
+      "topics": [
+        "regulation",
+        "companies",
+        "markets"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "gov_il",
+      "name": "ממשלת ישראל",
+      "domain": "gov.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "primary",
+      "topics": [
+        "policy",
+        "regulation",
+        "budgets"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "finance_ministry",
+      "name": "משרד האוצר",
+      "domain": "gov.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "primary",
+      "topics": [
+        "fiscal_policy",
+        "budgets",
+        "tax"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "competition_authority",
+      "name": "רשות התחרות",
+      "domain": "gov.il",
+      "region": "Israel",
+      "language": "he",
+      "type": "primary",
+      "topics": [
+        "competition",
+        "regulation",
+        "consumer"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "domain": "reuters.com",
+      "region": "Global",
+      "language": "en",
+      "type": "wire",
+      "topics": [
+        "global",
+        "markets",
+        "companies",
+        "macro"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "domain": "bloomberg.com",
+      "region": "Global",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "markets",
+        "macro",
+        "companies",
+        "finance"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "ft",
+      "name": "Financial Times",
+      "domain": "ft.com",
+      "region": "Global",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "global",
+        "markets",
+        "companies",
+        "macro"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "wsj",
+      "name": "Wall Street Journal",
+      "domain": "wsj.com",
+      "region": "US",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "markets",
+        "companies",
+        "economy"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "domain": "cnbc.com",
+      "region": "US",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "markets",
+        "companies",
+        "macro"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "economist",
+      "name": "The Economist",
+      "domain": "economist.com",
+      "region": "Global",
+      "language": "en",
+      "type": "analysis_press",
+      "topics": [
+        "global",
+        "macro",
+        "policy",
+        "geopolitics"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "marketwatch",
+      "name": "MarketWatch",
+      "domain": "marketwatch.com",
+      "region": "US",
+      "language": "en",
+      "type": "markets_press",
+      "topics": [
+        "markets",
+        "stocks",
+        "personal_finance"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "barrons",
+      "name": "Barron's",
+      "domain": "barrons.com",
+      "region": "US",
+      "language": "en",
+      "type": "markets_press",
+      "topics": [
+        "markets",
+        "stocks",
+        "investing"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "nytimes_business",
+      "name": "New York Times Business",
+      "domain": "nytimes.com",
+      "region": "US",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "companies",
+        "economy",
+        "technology"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "ap_business",
+      "name": "Associated Press Business",
+      "domain": "apnews.com",
+      "region": "Global",
+      "language": "en",
+      "type": "wire",
+      "topics": [
+        "business",
+        "economy",
+        "global"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "fortune",
+      "name": "Fortune",
+      "domain": "fortune.com",
+      "region": "US",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "companies",
+        "technology",
+        "leadership"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "domain": "forbes.com",
+      "region": "Global",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "companies",
+        "finance",
+        "technology"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "axios_business",
+      "name": "Axios Business",
+      "domain": "axios.com",
+      "region": "US",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "business",
+        "policy",
+        "technology"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "politico_economy",
+      "name": "Politico",
+      "domain": "politico.com",
+      "region": "US/EU",
+      "language": "en",
+      "type": "policy_press",
+      "topics": [
+        "policy",
+        "regulation",
+        "trade"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "federal_reserve",
+      "name": "Federal Reserve",
+      "domain": "federalreserve.gov",
+      "region": "US",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "monetary_policy",
+        "rates",
+        "banking"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "bls",
+      "name": "US Bureau of Labor Statistics",
+      "domain": "bls.gov",
+      "region": "US",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "labor",
+        "inflation",
+        "data"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "bea",
+      "name": "US Bureau of Economic Analysis",
+      "domain": "bea.gov",
+      "region": "US",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "GDP",
+        "data",
+        "trade"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "treasury",
+      "name": "US Treasury",
+      "domain": "treasury.gov",
+      "region": "US",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "fiscal",
+        "debt",
+        "policy"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "sec",
+      "name": "US Securities and Exchange Commission",
+      "domain": "sec.gov",
+      "region": "US",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "filings",
+        "companies",
+        "regulation"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "nasdaq",
+      "name": "Nasdaq",
+      "domain": "nasdaq.com",
+      "region": "US",
+      "language": "en",
+      "type": "market_data",
+      "topics": [
+        "markets",
+        "companies",
+        "data"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "nyse",
+      "name": "NYSE",
+      "domain": "nyse.com",
+      "region": "US",
+      "language": "en",
+      "type": "market_data",
+      "topics": [
+        "markets",
+        "companies"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "s&p_global",
+      "name": "S&P Global",
+      "domain": "spglobal.com",
+      "region": "Global",
+      "language": "en",
+      "type": "data_research",
+      "topics": [
+        "indices",
+        "credit",
+        "macro"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "moodys",
+      "name": "Moody's",
+      "domain": "moodys.com",
+      "region": "Global",
+      "language": "en",
+      "type": "data_research",
+      "topics": [
+        "credit",
+        "risk",
+        "macro"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "ecb",
+      "name": "European Central Bank",
+      "domain": "ecb.europa.eu",
+      "region": "Europe",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "monetary_policy",
+        "euro",
+        "banking"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "eurostat",
+      "name": "Eurostat",
+      "domain": "ec.europa.eu/eurostat",
+      "region": "Europe",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "data",
+        "inflation",
+        "labor"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "ec_economy",
+      "name": "European Commission Economy",
+      "domain": "economy-finance.ec.europa.eu",
+      "region": "Europe",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "fiscal",
+        "macro",
+        "policy"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "ft_europe",
+      "name": "Financial Times Europe",
+      "domain": "ft.com",
+      "region": "Europe",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "Europe",
+        "markets",
+        "companies"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "politico_eu",
+      "name": "Politico Europe",
+      "domain": "politico.eu",
+      "region": "Europe",
+      "language": "en",
+      "type": "policy_press",
+      "topics": [
+        "EU",
+        "policy",
+        "regulation"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "guardian_business",
+      "name": "The Guardian Business",
+      "domain": "theguardian.com",
+      "region": "UK",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "business",
+        "economy",
+        "policy"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "bbc_business",
+      "name": "BBC Business",
+      "domain": "bbc.com",
+      "region": "UK",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "economy",
+        "business",
+        "global"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "boe",
+      "name": "Bank of England",
+      "domain": "bankofengland.co.uk",
+      "region": "UK",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "monetary_policy",
+        "banking",
+        "data"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "ons_uk",
+      "name": "UK Office for National Statistics",
+      "domain": "ons.gov.uk",
+      "region": "UK",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "data",
+        "labor",
+        "inflation"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "london_stock_exchange",
+      "name": "London Stock Exchange",
+      "domain": "londonstockexchange.com",
+      "region": "UK",
+      "language": "en",
+      "type": "market_data",
+      "topics": [
+        "markets",
+        "companies"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "handelsblatt",
+      "name": "Handelsblatt",
+      "domain": "handelsblatt.com",
+      "region": "Germany",
+      "language": "de",
+      "type": "business_press",
+      "topics": [
+        "Germany",
+        "industry",
+        "economy"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "dw_business",
+      "name": "DW Business",
+      "domain": "dw.com",
+      "region": "Germany",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "Germany",
+        "Europe",
+        "economy"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "bundesbank",
+      "name": "Bundesbank",
+      "domain": "bundesbank.de",
+      "region": "Germany",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "monetary_policy",
+        "data",
+        "banking"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "les_echos",
+      "name": "Les Echos",
+      "domain": "lesechos.fr",
+      "region": "France",
+      "language": "fr",
+      "type": "business_press",
+      "topics": [
+        "France",
+        "companies",
+        "markets"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "nikkei",
+      "name": "Nikkei Asia",
+      "domain": "asia.nikkei.com",
+      "region": "Asia",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "Asia",
+        "markets",
+        "companies"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "scmp",
+      "name": "South China Morning Post",
+      "domain": "scmp.com",
+      "region": "Hong Kong/China",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "China",
+        "business",
+        "markets"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "caixin",
+      "name": "Caixin",
+      "domain": "caixin.com",
+      "region": "China",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "China",
+        "economy",
+        "markets"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "cnbc_asia",
+      "name": "CNBC Asia",
+      "domain": "cnbc.com",
+      "region": "Asia",
+      "language": "en",
+      "type": "business_press",
+      "topics": [
+        "Asia",
+        "markets"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "boj",
+      "name": "Bank of Japan",
+      "domain": "boj.or.jp",
+      "region": "Japan",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "monetary_policy",
+        "Japan",
+        "data"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "meti",
+      "name": "Japan METI",
+      "domain": "meti.go.jp",
+      "region": "Japan",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "industry",
+        "trade",
+        "policy"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "japan_times",
+      "name": "The Japan Times",
+      "domain": "japantimes.co.jp",
+      "region": "Japan",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "Japan",
+        "economy",
+        "business"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "korea_times",
+      "name": "The Korea Times",
+      "domain": "koreatimes.co.kr",
+      "region": "South Korea",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "Korea",
+        "business",
+        "economy"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "reserve_bank_australia",
+      "name": "Reserve Bank of Australia",
+      "domain": "rba.gov.au",
+      "region": "Australia",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "monetary_policy",
+        "data"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "abc_business",
+      "name": "ABC News Australia Business",
+      "domain": "abc.net.au",
+      "region": "Australia",
+      "language": "en",
+      "type": "general_press",
+      "topics": [
+        "business",
+        "economy"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "imf",
+      "name": "International Monetary Fund",
+      "domain": "imf.org",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "macro",
+        "finance",
+        "data"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "world_bank",
+      "name": "World Bank",
+      "domain": "worldbank.org",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "development",
+        "macro",
+        "data"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "oecd",
+      "name": "OECD",
+      "domain": "oecd.org",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "policy",
+        "data",
+        "macro"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "wto",
+      "name": "World Trade Organization",
+      "domain": "wto.org",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "trade",
+        "policy",
+        "data"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "bis",
+      "name": "Bank for International Settlements",
+      "domain": "bis.org",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "banking",
+        "finance",
+        "monetary_policy"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "un_trade",
+      "name": "UNCTAD",
+      "domain": "unctad.org",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "trade",
+        "development",
+        "data"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "energy_iea",
+      "name": "International Energy Agency",
+      "domain": "iea.org",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "energy",
+        "data",
+        "markets"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "eia",
+      "name": "US Energy Information Administration",
+      "domain": "eia.gov",
+      "region": "US",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "energy",
+        "data",
+        "commodities"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "oil_market",
+      "name": "OilPrice",
+      "domain": "oilprice.com",
+      "region": "Global",
+      "language": "en",
+      "type": "specialized_press",
+      "topics": [
+        "energy",
+        "oil",
+        "commodities"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "domain": "techcrunch.com",
+      "region": "Global",
+      "language": "en",
+      "type": "technology_press",
+      "topics": [
+        "technology",
+        "startups",
+        "venture"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "the_information",
+      "name": "The Information",
+      "domain": "theinformation.com",
+      "region": "US",
+      "language": "en",
+      "type": "technology_press",
+      "topics": [
+        "technology",
+        "companies",
+        "AI"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "domain": "wired.com",
+      "region": "Global",
+      "language": "en",
+      "type": "technology_press",
+      "topics": [
+        "technology",
+        "AI",
+        "industry"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "venturebeat",
+      "name": "VentureBeat",
+      "domain": "venturebeat.com",
+      "region": "Global",
+      "language": "en",
+      "type": "technology_press",
+      "topics": [
+        "AI",
+        "technology",
+        "enterprise"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "semiconductor",
+      "name": "Semiconductor Engineering",
+      "domain": "semiengineering.com",
+      "region": "Global",
+      "language": "en",
+      "type": "specialized_press",
+      "topics": [
+        "semiconductors",
+        "industry",
+        "technology"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "earnings_calls",
+      "name": "Company Investor Relations and Earnings",
+      "domain": "various",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "earnings",
+        "companies",
+        "guidance"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "filings_global",
+      "name": "Company filings and disclosures",
+      "domain": "various",
+      "region": "Global",
+      "language": "multilingual",
+      "type": "primary",
+      "topics": [
+        "companies",
+        "financials",
+        "disclosures"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "commodity_exchanges",
+      "name": "Commodity exchanges and official market data",
+      "domain": "various",
+      "region": "Global",
+      "language": "en",
+      "type": "primary",
+      "topics": [
+        "commodities",
+        "market_data"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "central_banks_global",
+      "name": "Central banks and official statistics (global)",
+      "domain": "various",
+      "region": "Global",
+      "language": "multilingual",
+      "type": "primary",
+      "topics": [
+        "macro",
+        "data",
+        "monetary_policy"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "regional_press",
+      "name": "Regional business press (discovery pool)",
+      "domain": "various",
+      "region": "Global",
+      "language": "multilingual",
+      "type": "press",
+      "topics": [
+        "regional",
+        "economy",
+        "companies"
+      ],
+      "priority": 3
+    }
+  ]
+}
