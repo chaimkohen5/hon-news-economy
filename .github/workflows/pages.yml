@@ -9,7 +9,7 @@ permissions:
   id-token: write
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,11 +18,11 @@ jobs:
       - uses: actions/configure-pages@v5
       - name: Prepare site
         run: |
-          mkdir -p _site
-          cp index.html styles.css app.js _site/
           mkdir -p _site/data
-          cp data/latest.json data/archive.json _site/data/\n          if [ -d data/editions ]; then cp -R data/editions _site/data/; fi
-      - uses: actions/upload-pages-artifact@v3
+          cp index.html styles.css app.js _site/
+          cp data/latest.json data/archive.json _site/data/
+          if [ -d data/editions ]; then cp -R data/editions _site/data/; fi
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
   deploy:
