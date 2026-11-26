@@ -8,35 +8,6 @@
   "featured_story_id": "us-macro",
   "stories": [
     {
-      "id": "israel-pension-tax",
-      "slug": "israel-pension-exit-tax-proposals",
-      "title": "האוצר בוחן ביטול חובת ההפרשה לפנסיה לצעירים והחמרת מס היציאה",
-      "dek": "חבילת הצעות שנבחנת לקראת הממשלה הבאה נועדה להגדיל הכנסות ולהקל על עובדים בתחילת דרכם, אך כוללת שינוי משמעותי בחיסכון ארוך הטווח.",
-      "category": "ישראל",
-      "type": "news",
-      "importance": 5,
-      "published_at": "2026-11-25",
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "משרד האוצר ורשות המסים בוחנים חבילת צעדי מס, ובה הצעה לבטל את חובת ההפרשה של עובדים מתחת לגיל 40 לחיסכון פנסיוני ולהפוך אותה לבחירה. לפי התוכנית המתוארת, המעסיקים ימשיכו להפריש את חלקם, בעוד העובדים יוכלו לקבל יותר מהכנסתם השוטפת."
-        },
-        {
-          "type": "paragraph",
-          "text": "ההצעה נועדה להגדיל את ההכנסה הפנויה של עובדים צעירים, אך משמעותה עלולה להיות צבירה נמוכה יותר של חיסכון לאורך שנים. המהלך עדיין בדיונים פנימיים ואינו הצעת חוק מאושרת."
-        },
-        {
-          "type": "paragraph",
-          "text": "במקביל, נבחנת החמרת גביית מס היציאה על נכסים של מי שמפסיקים להיות תושבי מס בישראל, לרבות מנגנוני דיווח וגבייה על נכסים נזילים. בחלק מהמקרים, החבות עשויה להיווצר לפני מכירת הנכס בפועל, כך שהנישום יידרש לממן תשלום על רווח שטרם מומש."
-        }
-      ],
-      "context": "הדיונים מגיעים על רקע הוצאות ביטחון גבוהות, גידול בחוב והצורך של הממשלה הבאה להתמודד עם תקציב 2027-2028.",
-      "significance": "הצעות המס משלבות שיקולי הכנסה למדינה והכנסה פנויה למשקי בית, אך שינוי ברירת המחדל של חיסכון פנסיוני עשוי להשפיע על הביטחון הכלכלי בגיל פרישה.",
-      "source_ids": [
-        "toi_pension"
-      ]
-    },
-    {
       "id": "defense-budget",
       "slug": "israel-defense-budget-increase",
       "title": "אושרה תוספת של 17.3 מיליארד שקל לתקציב הביטחון",
@@ -160,7 +131,6 @@
       "category": "עולם",
       "type": "news",
       "importance": 4,
-      "published_at": "2026-11-25",
       "body": [
         {
           "type": "paragraph",
@@ -273,7 +243,7 @@
       "category": "עולם",
       "type": "news",
       "importance": 3,
-      "published_at": "2026-11-25T20:39:03+05:30",
+      "published_at": "2026-11-25T20:48:00+05:30",
       "body": [
         {
           "type": "paragraph",
@@ -385,11 +355,10 @@
       "category": "עולם",
       "type": "news",
       "importance": 3,
-      "published_at": "2026-11-25",
       "body": [
         {
           "type": "paragraph",
-          "text": "מכירות בתים חדשים בארה״ב הגיעו באוקטובר לקצב שנתי מנוכה עונתיות של 701 אלף יחידות, לעומת 614 אלף בספטמבר, לפי הלשכה למפקד האוכלוסין ומשרד השיכון. מחיר המכירה החציוני היה 391,300 דולר, ירידה של 3.2% לעומת שנה קודם."
+          "text": "מכירות בתים חדשים בארה״ב הגיעו באוקטובר לקצב שנתי מנוכה עונתיות של 701 אלף יחידות, לעומת 614 אלף בספטמבר, לפי הלשכה למפקד האוכלוסין ומשרד השיכון. מחיר המכירה החציוני היה 391,300 דולר, 3.2% נמוך מהשנה הקודמת, אך גם שינוי המחיר אינו מובהק סטטיסטית (טווח אי-ודאות של 90%: ±9.2%)."
         },
         {
           "type": "paragraph",
@@ -413,7 +382,6 @@
       "category": "מדיניות",
       "type": "news",
       "importance": 3,
-      "published_at": "2026-11-25",
       "body": [
         {
           "type": "paragraph",
@@ -478,16 +446,6 @@
       ]
     },
     {
-      "id": "brief-eu-summit",
-      "title": "מנהיגי האיחוד האירופי מתכנסים לדיון בתקציב הרב-שנתי ובמימון אוקראינה",
-      "summary": "הפסגה המיוחדת מתוכננת ל-26–27 בנובמבר. סדר היום כולל את התקציב הרב-שנתי ואת סוגיית מימון אוקראינה; לא מדובר עדיין בהחלטות שהתקבלו.",
-      "category": "מדיניות",
-      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/",
-      "source_ids": [
-        "eu_council_summit"
-      ]
-    },
-    {
       "id": "brief-india-activity",
       "title": "ה-RBI: פעילות הודו נותרה עמידה באוקטובר, אך האינפלציה עלתה",
       "summary": "לפי דיווח על עלון הבנק המרכזי, מדדי פעילות, גביית GST, ביקוש לחשמל ויצוא התחזקו באוקטובר, בעוד האינפלציה לצרכן עלתה ל-6.1%.",
@@ -546,18 +504,19 @@
       "source_ids": [
         "nvidia_israel"
       ]
+    },
+    {
+      "id": "brief-kushner-economic-diplomacy",
+      "title": "קושנר קורא לישראל להתמקד בדיפלומטיה כלכלית",
+      "summary": "השליח האמריקאי אמר כי ישראל צריכה לצאת מ'מנטליות מלחמה' ולהתמקד בדיפלומטיה כלכלית. הוא הציע אפשרות לשיתוף פעולה אזורי בתחום התשתיות והדאטה סנטרים, אך מדובר בדברים ולא בתוכנית מוסכמת.",
+      "category": "ישראל",
+      "url": "https://www.timesofisrael.com/kushner-israel-must-escape-constant-wartime-mindset-focus-on-economic-diplomacy/",
+      "source_ids": [
+        "kushner_economic_diplomacy"
+      ]
     }
   ],
   "source_registry": [
-    {
-      "id": "toi_pension",
-      "name": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/israel-eyes-looser-pension-rules-tougher-taxes-on-emigrants-to-refill-emptying-coffers/",
-      "kind": "media",
-      "published_at": "2026-11-25",
-      "checked_at": "2026-11-26T06:15:24Z",
-      "note": "הצעות בשלבי דיון, לא חקיקה מאושרת"
-    },
     {
       "id": "defense_budget",
       "name": "Breaking Defense",
@@ -613,7 +572,6 @@
       "name": "Federal Reserve",
       "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202611-summary.htm",
       "kind": "primary",
-      "published_at": "2026-11-25",
       "checked_at": "2026-11-26T06:15:24Z",
       "note": "דוח אזורי רשמי; מידע נאסף עד 16 בנובמבר"
     },
@@ -654,7 +612,7 @@
       "name": "Business Standard",
       "url": "https://www.business-standard.com/economy/news/rbi-brings-back-60-tonnes-of-gold-in-six-months-domestic-share-hits-84-126112501199_1.html",
       "kind": "media",
-      "published_at": "2026-11-25T20:39:03+05:30",
+      "published_at": "2026-11-25T20:48:00+05:30",
       "checked_at": "2026-11-26T06:15:24Z"
     },
     {
@@ -687,7 +645,6 @@
       "name": "US Census Bureau / HUD",
       "url": "https://www.census.gov/construction/nrs/current/",
       "kind": "data",
-      "published_at": "2026-11-25",
       "checked_at": "2026-11-26T06:15:24Z",
       "note": "הנתון החודשי 14.2% אינו מובהק סטטיסטית לפי טווח האי-ודאות"
     },
@@ -696,7 +653,6 @@
       "name": "The Brussels Times",
       "url": "https://www.brusselstimes.com/2422910/new-eu-legislation-aims-to-boost-critical-medicine-supply-and-cut-costs",
       "kind": "media",
-      "published_at": "2026-11-25",
       "checked_at": "2026-11-26T06:15:24Z"
     },
     {
@@ -704,7 +660,6 @@
       "name": "Agence Europe",
       "url": "https://agenceurope.eu/en/bulletin/article/13990/17/critical-medicines-act-european-parliament-gives-green-light",
       "kind": "media",
-      "published_at": "2026-11-25",
       "checked_at": "2026-11-26T06:15:24Z"
     },
     {
@@ -748,15 +703,6 @@
       "checked_at": "2026-11-26T06:15:24Z"
     },
     {
-      "id": "eu_council_summit",
-      "name": "European Council",
-      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/",
-      "kind": "institution",
-      "published_at": "2026-11-26",
-      "checked_at": "2026-11-26T06:15:24Z",
-      "note": "סדר יום של מפגש מתוכנן; לא החלטות"
-    },
-    {
       "id": "india_activity",
       "name": "Moneycontrol",
       "url": "https://www.moneycontrol.com/news/business/banks/festive-demand-industrial-activity-keep-india-s-economy-resilient-in-october-says-rbi-bulletin-14089035.html",
@@ -785,7 +731,7 @@
       "name": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-916123",
       "kind": "media",
-      "published_at": "2026-11-25T16:25:53",
+      "published_at": "2026-11-25T14:25:53Z",
       "checked_at": "2026-11-26T06:15:24Z",
       "note": "נתון מבוסס מחקר ERI מ-2024 כפי שצוטט בדיווח"
     },
@@ -806,7 +752,15 @@
       "published_at": "2026-11-25T13:04:17Z",
       "checked_at": "2026-11-26T06:15:24Z",
       "note": "הערכת תרומה לצמיחה מיוחסת לבנק ישראל בדיווח; המקור הראשוני לא נפתח"
+    },
+    {
+      "id": "kushner_economic_diplomacy",
+      "name": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/kushner-israel-must-escape-constant-wartime-mindset-focus-on-economic-diplomacy/",
+      "kind": "media",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "הצעה/אמירה של שליח, לא הסכם"
     }
   ],
-  "editor_note": "מהדורה שנחקרה ונערכה ל-26 בנובמבר 2026. 15 כתבות ו-11 מבזקים. המקורות הראשוניים הועדפו היכן שניתן. אישור תוספת תקציב הביטחון נשען על דיווח יחיד; הצעות הפנסיה ומס היציאה עדיין בדיון; מכירות הבתים בארה״ב מוצגות עם הסתייגות שטווח האי-ודאות אינו מובהק. לא פורסם צילום מצב מספרי של שוק ההון ללא אימות נוסף. כתבת Reuters על איטליה נקראה דרך סינדיקציה; Reuters הישיר חסום."
+  "editor_note": "מהדורה שנחקרה ונערכה ל-26 בנובמבר 2026. 14 כתבות ו-11 מבזקים. המקורות הראשוניים הועדפו היכן שניתן. אישור תוספת תקציב הביטחון נשען על דיווח יחיד; מכירות הבתים בארה״ב מוצגות עם הסתייגות שטווחי אי-הוודאות אינם מובהקים. לא פורסם צילום מצב מספרי של שוק ההון ללא אימות נוסף. כתבת Reuters על איטליה נקראה דרך סינדיקציה; Reuters הישיר חסום. הצעת הפנסיה בישראל הושמטה לאחר שלא ניתן לקרוא את הכתבה במלואה."
 }
