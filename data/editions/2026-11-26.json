@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "date": "2026-11-26",
-  "updated_at": "2026-11-26T06:15:24Z",
+  "updated_at": "2026-11-26T06:25:38Z",
   "status": "published",
   "title": "הון | מהדורת הכלכלה",
   "subtitle": "החדשות הכלכליות המרכזיות בישראל ובעולם",
@@ -523,7 +523,6 @@
       "url": "https://breakingdefense.com/2026/11/israel-increases-defense-budget-by-5-billion-as-concerns-continue-over-future-funding/",
       "kind": "media",
       "published_at": "2026-11-25T17:30:00Z",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "דיווח יחיד שנמצא על אישור התוספת"
     },
     {
@@ -532,7 +531,6 @@
       "url": "https://www.prnewswire.com/il/news-releases/strauss-group-reports-strong-q3-2026-results-net-income-of-nis-212-million-up-approx-42-302950358.html",
       "kind": "primary",
       "published_at": "2026-11-25T09:30:00Z",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "נתונים לא-GAAP כפי שהחברה דיווחה"
     },
     {
@@ -540,39 +538,34 @@
       "name": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
       "kind": "media",
-      "published_at": "2026-11-25T13:31:45Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T13:31:45Z"
     },
     {
       "id": "cnn_gdp",
       "name": "CNN Business",
       "url": "https://www.cnn.com/2026/11/25/economy/us-pce-inflation-spending-gdp",
       "kind": "media",
-      "published_at": "2026-11-25T13:44:31Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T13:44:31Z"
     },
     {
       "id": "cnbc_tariff",
       "name": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "kind": "media",
-      "published_at": "2026-11-25T13:11:09Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T13:11:09Z"
     },
     {
       "id": "aljazeera_tariff",
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target",
       "kind": "media",
-      "published_at": "2026-11-25T14:54:44Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T14:54:44Z"
     },
     {
       "id": "fed_beige",
       "name": "Federal Reserve",
       "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202611-summary.htm",
       "kind": "primary",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "דוח אזורי רשמי; מידע נאסף עד 16 בנובמבר"
     },
     {
@@ -580,40 +573,35 @@
       "name": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261126001253320",
       "kind": "media",
-      "published_at": "2026-11-26T04:17:23Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-26T04:17:23Z"
     },
     {
       "id": "businesskorea_bok",
       "name": "BusinessKorea",
       "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=282266",
       "kind": "media",
-      "published_at": "2026-11-26T02:36:59Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-26T02:36:59Z"
     },
     {
       "id": "destatis",
       "name": "Destatis",
       "url": "https://destatis.de/EN/Press/2026/11/PE26_409_811.html",
       "kind": "primary",
-      "published_at": "2026-11-25T07:00:08Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T07:00:08Z"
     },
     {
       "id": "guardian_uk_food",
       "name": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
       "kind": "media",
-      "published_at": "2026-11-25T19:25:57Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T19:25:57Z"
     },
     {
       "id": "businessstandard_rbi",
       "name": "Business Standard",
       "url": "https://www.business-standard.com/economy/news/rbi-brings-back-60-tonnes-of-gold-in-six-months-domestic-share-hits-84-126112501199_1.html",
       "kind": "media",
-      "published_at": "2026-11-25T20:48:00+05:30",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T20:48:00+05:30"
     },
     {
       "id": "italy_reuters_mirror",
@@ -621,7 +609,6 @@
       "url": "https://lufkindailynews.com/news/reuters/business/in-olive-branch-to-banks-italy-plans-to-drop-curbs-home-renovation-tax-credits/article_6e1c025e-a5f3-5986-bf73-a05ff696d73d.html",
       "kind": "media",
       "published_at": "2026-11-25T13:54:54-06:00",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "הכתבה נקראה דרך אתר סינדיקציה; Reuters הישיר חסום"
     },
     {
@@ -629,102 +616,89 @@
       "name": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
       "kind": "media",
-      "published_at": "2026-11-26T02:57:32Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-26T02:57:32Z"
     },
     {
       "id": "straits_market",
       "name": "The Straits Times",
       "url": "https://www.straitstimes.com/business/asian-stocks-enjoy-another-bounce-as-tech-holds-court",
       "kind": "media",
-      "published_at": "2026-11-26T05:20:00Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-26T05:20:00Z"
     },
     {
       "id": "census_newhome",
       "name": "US Census Bureau / HUD",
       "url": "https://www.census.gov/construction/nrs/current/",
       "kind": "data",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "הנתון החודשי 14.2% אינו מובהק סטטיסטית לפי טווח האי-ודאות"
     },
     {
       "id": "brussels_times_meds",
       "name": "The Brussels Times",
       "url": "https://www.brusselstimes.com/2422910/new-eu-legislation-aims-to-boost-critical-medicine-supply-and-cut-costs",
-      "kind": "media",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "kind": "media"
     },
     {
       "id": "agence_europe_meds",
       "name": "Agence Europe",
       "url": "https://agenceurope.eu/en/bulletin/article/13990/17/critical-medicines-act-european-parliament-gives-green-light",
-      "kind": "media",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "kind": "media"
     },
     {
       "id": "brazil_tariffs",
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals",
       "kind": "media",
-      "published_at": "2026-11-26T04:47:47Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-26T04:47:47Z"
     },
     {
       "id": "singapore_tariffs",
       "name": "The Straits Times",
       "url": "https://www.straitstimes.com/business/singapore-very-disappointed-by-proposed-us-tariffs-says-move-overlooks-its-economic-structure",
       "kind": "media",
-      "published_at": "2026-11-26T04:30:00Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-26T04:30:00Z"
     },
     {
       "id": "india_tariff_cap",
       "name": "The New Indian Express",
       "url": "https://www.newindianexpress.com/business/2026/Nov/25/25-proposed-us-tariffs-india-rejects-excess-capacity-charge-seeks-early-trade-deal",
       "kind": "media",
-      "published_at": "2026-11-25T19:38:33Z",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T19:38:33Z"
     },
     {
       "id": "india_tariff_response",
       "name": "India Today",
       "url": "https://www.indiatoday.in/india/story/us-proposes-tariffs-of-up-to-25-on-india-6-other-nations-china-faces-40-rate-3046790-2026-11-25",
       "kind": "media",
-      "published_at": "2026-11-25T19:06:49+05:30",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T19:06:49+05:30"
     },
     {
       "id": "eunews_aid",
       "name": "Eunews",
       "url": "https://www.eunews.it/en/2026/11/25/the-commission-has-extended-state-aid-for-european-businesses-affected-by-the-energy-crisis-by-a-further-six-months/",
       "kind": "media",
-      "published_at": "2026-11-25T16:11:35+01:00",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T16:11:35+01:00"
     },
     {
       "id": "india_activity",
       "name": "Moneycontrol",
       "url": "https://www.moneycontrol.com/news/business/banks/festive-demand-industrial-activity-keep-india-s-economy-resilient-in-october-says-rbi-bulletin-14089035.html",
       "kind": "media",
-      "published_at": "2026-11-25T19:46:19+05:30",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T19:46:19+05:30"
     },
     {
       "id": "coffee_businessline",
       "name": "The Hindu BusinessLine",
       "url": "https://www.thehindubusinessline.com/economy/agri-business/coffee-prices-ease-on-rising-global-supplies-weak-demand/article71742703.ece",
       "kind": "media",
-      "published_at": "2026-11-25T19:22:24+05:30",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T19:22:24+05:30"
     },
     {
       "id": "fragrance_cartel",
       "name": "FashionNetwork (AFP)",
       "url": "https://us.fashionnetwork.com/news/Eu-uk-fine-fragrance-firms-over-570-million-euros-for-international-cartel,1888329.html",
       "kind": "media",
-      "published_at": "2026-11-25T17:24:37+01:00",
-      "checked_at": "2026-11-26T06:15:24Z"
+      "published_at": "2026-11-25T17:24:37+01:00"
     },
     {
       "id": "women_abuse",
@@ -732,7 +706,6 @@
       "url": "https://www.jpost.com/israel-news/article-916123",
       "kind": "media",
       "published_at": "2026-11-25T14:25:53Z",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "נתון מבוסס מחקר ERI מ-2024 כפי שצוטט בדיווח"
     },
     {
@@ -741,7 +714,6 @@
       "url": "https://www.jpost.com/business-and-innovation/all-news/article-916145",
       "kind": "media",
       "published_at": "2026-11-25T20:09:59Z",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "הנתונים מבוססים על דיווח העמותה"
     },
     {
@@ -750,7 +722,6 @@
       "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia",
       "kind": "media",
       "published_at": "2026-11-25T13:04:17Z",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "הערכת תרומה לצמיחה מיוחסת לבנק ישראל בדיווח; המקור הראשוני לא נפתח"
     },
     {
@@ -758,7 +729,6 @@
       "name": "The Times of Israel",
       "url": "https://www.timesofisrael.com/kushner-israel-must-escape-constant-wartime-mindset-focus-on-economic-diplomacy/",
       "kind": "media",
-      "checked_at": "2026-11-26T06:15:24Z",
       "note": "הצעה/אמירה של שליח, לא הסכם"
     }
   ],
