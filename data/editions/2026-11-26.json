@@ -1,0 +1,812 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T06:15:24Z",
+  "status": "published",
+  "title": "הון | מהדורת הכלכלה",
+  "subtitle": "החדשות הכלכליות המרכזיות בישראל ובעולם",
+  "featured_story_id": "us-macro",
+  "stories": [
+    {
+      "id": "israel-pension-tax",
+      "slug": "israel-pension-exit-tax-proposals",
+      "title": "האוצר בוחן ביטול חובת ההפרשה לפנסיה לצעירים והחמרת מס היציאה",
+      "dek": "חבילת הצעות שנבחנת לקראת הממשלה הבאה נועדה להגדיל הכנסות ולהקל על עובדים בתחילת דרכם, אך כוללת שינוי משמעותי בחיסכון ארוך הטווח.",
+      "category": "ישראל",
+      "type": "news",
+      "importance": 5,
+      "published_at": "2026-11-25",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "משרד האוצר ורשות המסים בוחנים חבילת צעדי מס, ובה הצעה לבטל את חובת ההפרשה של עובדים מתחת לגיל 40 לחיסכון פנסיוני ולהפוך אותה לבחירה. לפי התוכנית המתוארת, המעסיקים ימשיכו להפריש את חלקם, בעוד העובדים יוכלו לקבל יותר מהכנסתם השוטפת."
+        },
+        {
+          "type": "paragraph",
+          "text": "ההצעה נועדה להגדיל את ההכנסה הפנויה של עובדים צעירים, אך משמעותה עלולה להיות צבירה נמוכה יותר של חיסכון לאורך שנים. המהלך עדיין בדיונים פנימיים ואינו הצעת חוק מאושרת."
+        },
+        {
+          "type": "paragraph",
+          "text": "במקביל, נבחנת החמרת גביית מס היציאה על נכסים של מי שמפסיקים להיות תושבי מס בישראל, לרבות מנגנוני דיווח וגבייה על נכסים נזילים. בחלק מהמקרים, החבות עשויה להיווצר לפני מכירת הנכס בפועל, כך שהנישום יידרש לממן תשלום על רווח שטרם מומש."
+        }
+      ],
+      "context": "הדיונים מגיעים על רקע הוצאות ביטחון גבוהות, גידול בחוב והצורך של הממשלה הבאה להתמודד עם תקציב 2027-2028.",
+      "significance": "הצעות המס משלבות שיקולי הכנסה למדינה והכנסה פנויה למשקי בית, אך שינוי ברירת המחדל של חיסכון פנסיוני עשוי להשפיע על הביטחון הכלכלי בגיל פרישה.",
+      "source_ids": [
+        "toi_pension"
+      ]
+    },
+    {
+      "id": "defense-budget",
+      "slug": "israel-defense-budget-increase",
+      "title": "אושרה תוספת של 17.3 מיליארד שקל לתקציב הביטחון",
+      "dek": "ועדת התקציב הביטחוני אישרה תוספת משמעותית לשנת 2026; לפי הדיווח, המימון יגיע בין היתר מהעברות בין סעיפי תקציב.",
+      "category": "מדיניות",
+      "type": "news",
+      "importance": 5,
+      "published_at": "2026-11-25T17:30:00Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "ועדת התקציב הביטחוני אישרה תוספת של כ-17.3 מיליארד שקל לתקציב הביטחון של 2026, לפי דיווח Breaking Defense. שר הביטחון ישראל כץ אמר כי התוספת נועדה לחזק את יכולות צה״ל ולתמוך בתוכניות רכש ובבניין הכוח."
+        },
+        {
+          "type": "paragraph",
+          "text": "לפי הדיווח, ההגדלה מגיעה לאחר כמה תוספות תקציביות במהלך השנה, והיא צפויה להיות ממומנת באמצעות העברות מסעיפים אחרים בתקציב. בין היתר, הוזכרו משרדי תחבורה, ביטחון לאומי וחינוך."
+        },
+        {
+          "type": "paragraph",
+          "text": "הדיווח מציין גם חובות של משרד הביטחון לתעשיות ביטחוניות ממשלתיות. אישור התוספת אינו פותר את שאלת המימון לשנים הבאות, שבהן צפויים להימשך לחצים על התקציב."
+        }
+      ],
+      "context": "ההחלטה מתוארת בדיווח אחד; לא נמצא במהלך המחקר מקור ראשוני או דיווח עצמאי נוסף המאמת את פרטי ההצבעה.",
+      "significance": "הגדלת ההוצאה הביטחונית מחדדת את התחרות על משאבי התקציב ואת השאלה כיצד ימומנו צורכי הביטחון לצד שירותים אזרחיים.",
+      "source_ids": [
+        "defense_budget"
+      ]
+    },
+    {
+      "id": "strauss-results",
+      "slug": "strauss-q3-2026-results",
+      "title": "שטראוס: הרווח ברבעון השלישי עלה ב-42%, החברה מתכננת חיסכון של 100 מיליון שקל",
+      "dek": "החברה הציגה שיפור ברווחיות ובתזרים, לצד ירידה במכירות על בסיס מדווח והיערכות לצמצום שכבות ניהול.",
+      "category": "חברות",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-25T09:30:00Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "שטראוס גרופ דיווחה על רווח נקי של 212 מיליון שקל ברבעון השלישי של 2026, עלייה של 42.1% לעומת התקופה המקבילה. המכירות הסתכמו ב-3.004 מיליארד שקל, ירידה של 8.4% במונחים מדווחים ושל 4.8% בנטרול השפעות מטבע."
+        },
+        {
+          "type": "paragraph",
+          "text": "ה-EBIT הסתכם ב-340 מיליון שקל, עלייה של 8%, ושיעור הרווח התפעולי הגיע ל-11.4%. תזרים המזומנים החופשי היה 297 מיליון שקל, עלייה של 21.2%."
+        },
+        {
+          "type": "paragraph",
+          "text": "החברה הודיעה על תוכנית התייעלות שתבוצע במהלך 2027, ובה צמצום שכבות ניהול ושינוי במבנה הארגוני. שטראוס צופה שהתוכנית תניב חיסכון שנתי של כ-100 מיליון שקל לפני מס. החברה גם הודיעה על תוכנית רכישה עצמית ראשונה של מניות בהיקף 50 מיליון שקל."
+        }
+      ],
+      "significance": "הדוח מצביע על שיפור ברווחיות ובתזרים למרות ירידה במכירות, ועל ניסיון להמשיך לשפר יעילות באמצעות שינוי מבני.",
+      "source_ids": [
+        "strauss_pr"
+      ]
+    },
+    {
+      "id": "us-macro",
+      "slug": "us-gdp-pce-october",
+      "title": "הכלכלה האמריקאית צמחה בקצב של 4.3%, בעוד האינפלציה נותרה גבוהה",
+      "dek": "הצמיחה ברבעון השלישי עודכנה כלפי מעלה, ומדד PCE באוקטובר הגיע ל-3.8% בשנה; מדד הליבה עמד על 3.3%.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 5,
+      "published_at": "2026-11-25T13:31:45Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "הכלכלה האמריקאית צמחה בקצב שנתי של 4.3% ברבעון השלישי, לפי אומדן מעודכן של משרד המסחר, לעומת 3.4% באומדן הקודם. ההשקעות, ובפרט הוצאות על תוכנה ותשתיות, לצד צריכה פרטית, תרמו לעדכון."
+        },
+        {
+          "type": "paragraph",
+          "text": "בנתון נפרד, מדד הוצאות הצריכה האישיות (PCE), מדד האינפלציה המועדף על הפדרל ריזרב, עלה באוקטובר בקצב שנתי של 3.8%. מדד הליבה, ללא מזון ואנרגיה, עמד על 3.3%. שניהם גבוהים מיעד האינפלציה של הפד, 2%."
+        },
+        {
+          "type": "paragraph",
+          "text": "הנתונים מציבים את הבנק המרכזי מול שילוב של פעילות חזקה ולחצי מחירים. נתוני ההכנסה והצריכה של אוקטובר הראו גם כי ההוצאה הריאלית לא התרחבה, כך שהצמיחה ברבעון והמצב של משקי הבית אינם תמונה זהה."
+        }
+      ],
+      "significance": "הצמיחה החזקה והאינפלציה העיקשת עשויות להשפיע על מסלול הריבית, תשואות האג״ח ותמחור נכסים.",
+      "source_ids": [
+        "cnbc_pce",
+        "cnn_gdp"
+      ]
+    },
+    {
+      "id": "tariffs-14",
+      "slug": "us-section-301-tariffs-14",
+      "title": "ארה״ב מציעה מכסים חדשים על 14 שותפות סחר במסגרת חקירת עודף כושר ייצור",
+      "dek": "ההצעה כוללת את סין, האיחוד האירופי, הודו, יפן ושותפות נוספות; המהלך עדיין כפוף להליך ולתגובות.",
+      "category": "מדיניות",
+      "type": "news",
+      "importance": 5,
+      "published_at": "2026-11-25T13:11:09Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "ממשל טראמפ הציע מכסים חדשים על 14 כלכלות במסגרת חקירה לפי סעיף 301 בחוק הסחר האמריקאי, בטענה שמדיניות תעשייתית וסבסוד יוצרים עודף כושר ייצור ופוגעים במסחר האמריקאי. בין היעדים: סין, האיחוד האירופי, הודו, יפן, דרום קוריאה, סינגפור ומדינות נוספות."
+        },
+        {
+          "type": "paragraph",
+          "text": "ההצעות מתייחסות לשיעורים שונים לפי כלכלה, וברוב המקרים הוצגו ככאלה שנועדו להשלים או להתאים את המכסים הקיימים ולא בהכרח להצטבר עליהם. סין צפויה להתמודד עם שיעור מוצע של 20% במסגרת המהלך, לפי הדיווח."
+        },
+        {
+          "type": "paragraph",
+          "text": "נציג הסחר האמריקאי אמר כי המכסים לא צפויים להיכנס לתוקף מיידית, וכי צפוי הליך נוסף. המדינות הנכללות בחקירה חולקות על חלק מהטענות, והמהלך עלול להשפיע על שיחות סחר ועל מחירי מוצרים ורכיבים."
+        }
+      ],
+      "context": "ההצעה באה לאחר שפסיקת בית המשפט העליון בארה״ב ביטלה חלק ממסגרת המכסים הקודמת, והממשל פועל להשתמש בסמכויות אחרות.",
+      "significance": "המהלך עשוי לשנות את תנאי הסחר, את עלויות היבוא ואת החלטות ההשקעה של חברות התלויות בשרשראות אספקה גלובליות.",
+      "source_ids": [
+        "cnbc_tariff",
+        "aljazeera_tariff"
+      ]
+    },
+    {
+      "id": "fed-beige",
+      "slug": "fed-beige-book-november",
+      "title": "ספר הבז' של הפד: פעילות מתונה, צרכנים רגישים למחירים ולחצים מתמשכים על עלויות",
+      "dek": "שמונה מתוך 12 מחוזות דיווחו על צמיחה קלה עד מתונה; ארבעה לא דיווחו על שינוי.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-25",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "ספר הבז' של הפדרל ריזרב, המבוסס על מידע שנאסף עד 16 בנובמבר, מצא כי שמונה מתוך 12 מחוזות דיווחו על צמיחה קלה עד מתונה, בעוד ארבעה דיווחו על פעילות ללא שינוי."
+        },
+        {
+          "type": "paragraph",
+          "text": "הצריכה הייתה ברובה יציבה, אך משקי הבית הפכו רגישים יותר למחירים ולבררניים בהוצאות. פעילות בענפי התעשייה, התחבורה והשירותים הייתה מעורבת, והפעילות בענף הנדל״ן למגורים נחלשה על רקע קשיי affordability."
+        },
+        {
+          "type": "paragraph",
+          "text": "תעסוקה ושכר עלו מעט או באופן מתון ברוב האזורים. המחירים עלו במתינות, כאשר עלויות אנרגיה, תחבורה, ביטוח, חומרי גלם ומכסים המשיכו להכביד על עסקים, שלא תמיד הצליחו להעביר את העלויות במלואן לצרכנים."
+        }
+      ],
+      "significance": "הסקירה האזורית מספקת תמונת מצב משלימה לנתוני המאקרו ומדגישה את הפער בין צמיחה לבין לחץ על משקי בית ועסקים.",
+      "source_ids": [
+        "fed_beige"
+      ]
+    },
+    {
+      "id": "bok-rate",
+      "slug": "south-korea-bok-rate-growth",
+      "title": "דרום קוריאה העלתה את הריבית ל-3.25% והקפיצה את תחזית הצמיחה",
+      "dek": "הבנק המרכזי העלה את הריבית על רקע יצוא שבבים, אינפלציה מעל היעד וסיכונים פיננסיים.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-26T04:17:23Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "הבנק המרכזי של דרום קוריאה העלה את הריבית ב-0.25 נקודת אחוז ל-3.25%, לאחר הפסקה של שלושה חודשים. הבנק ציין התחזקות בפעילות הכלכלית, אינפלציה מעל היעד וסיכונים ליציבות פיננסית."
+        },
+        {
+          "type": "paragraph",
+          "text": "תחזית הצמיחה לשנת 2026 הועלתה ל-3.9%, לעומת 3.3% קודם, ותחזית 2027 הועלתה ל-4.1%, לעומת 2.9%. הבנק מצביע על יצוא שבבים והשקעות בתשתיות AI כמנועי פעילות."
+        },
+        {
+          "type": "paragraph",
+          "text": "האינפלציה באוקטובר עמדה על 2.8%, מעל יעד 2%. החלטת הריבית לא הייתה פה אחד, וחלק מחברי הוועדה העדיפו להשאיר את הריבית ללא שינוי."
+        }
+      ],
+      "significance": "הכלכלה הקוריאנית נהנית מהביקוש לשבבים, אך הבנק מנסה למנוע שהצמיחה והמחירים ייצרו לחץ נוסף על משקי הבית והיציבות הפיננסית.",
+      "source_ids": [
+        "yonhap_bok",
+        "businesskorea_bok"
+      ]
+    },
+    {
+      "id": "germany-gdp",
+      "slug": "germany-q3-gdp-revision",
+      "title": "הצמיחה בגרמניה ברבעון השלישי עודכנה ל-0.1% בלבד",
+      "dek": "Destatis עדכנה את נתון הצמיחה כלפי מטה; השקעות בציוד, יצוא וצריכה חלשה הכבידו על הפעילות.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-25T07:00:08Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "התוצר של גרמניה עלה ב-0.1% ברבעון השלישי לעומת הרבעון השני, לאחר שהאומדן הראשוני הצביע על 0.2%. נתוני Destatis מצביעים על חולשה ביצוא ובמסחר הקמעונאי בחודש ספטמבר ועל ירידה בהשקעה."
+        },
+        {
+          "type": "paragraph",
+          "text": "ההשקעה במכונות ובציוד ירדה ב-3.5% לעומת הרבעון המקביל אשתקד. התוצר היה גבוה ב-1.1% לעומת שנה קודם, לאחר התאמה עונתית וקלנדרית."
+        },
+        {
+          "type": "paragraph",
+          "text": "מספר המועסקים ירד ב-0.5% לעומת הרבעון המקביל. הנתונים מצביעים על התאוששות איטית בכלכלה הגדולה באירופה, גם כאשר חלק מענפי התעשייה והשירותים רשמו שיפור."
+        }
+      ],
+      "significance": "העדכון מחליש את תמונת ההתאוששות של גרמניה ומדגיש את הקושי של השקעות ויצוא להחזיר את הכלכלה למסלול צמיחה יציב.",
+      "source_ids": [
+        "destatis"
+      ]
+    },
+    {
+      "id": "uk-food-inflation",
+      "slug": "uk-food-inflation-2027",
+      "title": "בנק אנגליה מעריך כי אינפלציית המזון בבריטניה עשויה להגיע ל-5% באמצע 2027",
+      "dek": "הבנק צופה עלייה של 3%-5% במחירי המזון, בין היתר על רקע עלויות אנרגיה וגורמי אקלים.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-25T19:25:57Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "בנק אנגליה מעריך כי אינפלציית המזון בבריטניה עשויה לעלות לרמה של 3%-5% באמצע 2027, לעומת כ-1.3% כיום, לפי דברים שנמסרו בדיון בפרלמנט. התחזית אינה ודאית, אך הבנק ציין כי לחצים על עלויות עדיין קיימים."
+        },
+        {
+          "type": "paragraph",
+          "text": "בין הגורמים שהוזכרו: עליית מחירי האנרגיה, תקרת חשבונות החשמל והגז שתעלה ב-26% בינואר, וכן אי-ודאות לגבי השפעת אירוע אל ניניו על מחירי המזון."
+        },
+        {
+          "type": "paragraph",
+          "text": "האינפלציה הכללית בבריטניה עמדה על 3.6% בחודש האחרון לפי הדיווח. בבנק הזהירו כי אם ציפיות האינפלציה יתרחקו מהיעד, יהיה צורך במדיניות מוניטרית קשוחה יותר."
+        }
+      ],
+      "significance": "תחזית מחירי המזון מצביעה על סיכון נוסף להוצאות משקי הבית ועל אפשרות של לחץ מתמשך על הריבית.",
+      "source_ids": [
+        "guardian_uk_food"
+      ]
+    },
+    {
+      "id": "rbi-gold",
+      "slug": "india-rbi-gold-domestic",
+      "title": "הודו החזירה 60 טונות זהב למדינה בתוך חצי שנה",
+      "dek": "ה-RBI הגדיל את חלק הזהב המוחזק בתוך הודו לכ-84% מהיתרות, בלי שינוי בכמות הכוללת.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 3,
+      "published_at": "2026-11-25T20:39:03+05:30",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "הבנק המרכזי של הודו העביר 60.08 טונות זהב למאגרי המדינה בין מרץ לספטמבר 2026, והעלה את שיעור הזהב המוחזק בתוך הודו לכ-84% מסך היתרות, לעומת 77.23% בסוף מרץ."
+        },
+        {
+          "type": "paragraph",
+          "text": "סך אחזקות הזהב נותר 880.52 טונות, מתוכן 740.13 טונות מוחזקות בתוך הודו. יתרת הזהב המוחזקת מחוץ למדינה ירדה בהתאם. ערך הזהב בדולרים ירד בתקופה, למרות שהכמות הכוללת לא השתנתה, בשל ירידת המחירים."
+        },
+        {
+          "type": "paragraph",
+          "text": "הדוח גם מצביע על שינוי בהרכב יתרות המטבע: חלק גדול יותר מהנכסים הושקע בניירות ערך, וחלק קטן יותר הופקד בבנקים מרכזיים וב-BIS."
+        }
+      ],
+      "significance": "המהלך משקף שינוי באופן שבו הבנק המרכזי מנהל וממקם את נכסי הרזרבה, ולא הגדלה של כמות הזהב הכוללת.",
+      "source_ids": [
+        "businessstandard_rbi"
+      ]
+    },
+    {
+      "id": "italy-bank-credits",
+      "slug": "italy-bank-tax-credits-budget",
+      "title": "איטליה צפויה לבטל מגבלה על זיכויי מס של כ-20 מיליארד אירו המוחזקים בידי בנקים",
+      "dek": "הממשלה מתכננת לשנות את סעיף התקציב שנועד לפרוס את זיכויי המס לאורך עשור, בעקבות ביקורת מצד בנקים.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 3,
+      "published_at": "2026-11-25T13:54:54-06:00",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "איטליה מתכננת לבטל סעיף בתקציב 2027 שפרס על פני עשר שנים זיכויי מס בהיקף של כ-20 מיליארד אירו, בעיקר כאלה המוחזקים בידי בנקים ומקורם בתמריצי שיפוץ בתים מ-2023, לפי דיווח Reuters שהופץ בסינדיקציה."
+        },
+        {
+          "type": "paragraph",
+          "text": "המהלך מגיע לאחר ביקורת מצד בנקים, ובכלל זה אזהרות כי ההגבלה על שימוש בזיכויים עלולה לפגוע ברווחים ובחשיפה לאג״ח המדינה. הממשלה צפויה לחפש חלופות כדי לשמור על יעדי החוב."
+        },
+        {
+          "type": "paragraph",
+          "text": "התקציב חייב לעבור בפרלמנט עד סוף השנה. בנקים העלו גם התנגדויות למיסוי נוסף על המגזר הפיננסי, והדיון מתנהל על רקע יחס חוב-תוצר גבוה."
+        }
+      ],
+      "significance": "המהלך עשוי להקל על המערכת הבנקאית, אך משאיר את הממשלה עם צורך למצוא מקור חלופי להכנסות או לצמצום הוצאות.",
+      "source_ids": [
+        "italy_reuters_mirror"
+      ]
+    },
+    {
+      "id": "nvidia-creditwatch",
+      "slug": "nvidia-sp-creditwatch-governance",
+      "title": "S&P הציבה את דירוג האשראי של Nvidia במעקב שלילי בשל חששות ממשל תאגידי",
+      "dek": "הסוכנות עשויה להוריד את דירוג החברה בדרגה אחת בתוך 90 יום אם לא יטופלו חולשות בממשל ובפיקוח.",
+      "category": "טכנולוגיה",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-26T02:57:32Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "S&P Global Ratings הציבה את דירוג האשראי של Nvidia, כיום AA, במעקב עם השלכות שליליות. הסוכנות אמרה כי חולשות בממשל התאגידי, עצמאות הדירקטוריון ותכנון succession עשויות להוביל להורדת דירוג של דרגה אחת בתוך 90 יום."
+        },
+        {
+          "type": "paragraph",
+          "text": "ההחלטה מגיעה לאחר סערה סביב הנהלת החברה, ובמקביל למהלך של Moody's ששינה את תחזית הדירוג ליציבה. S&P ציינה כי ביצועים עסקיים חזקים אינם פוטרים את הדירקטוריון מהצורך להתמודד עם סוגיות פיקוח."
+        },
+        {
+          "type": "paragraph",
+          "text": "הורדת דירוג עלולה להשפיע על מחירי אג״ח ועל עלויות מימון, אך בשלב זה מדובר במעקב ובאפשרות להורדה, לא בהורדת דירוג בפועל."
+        }
+      ],
+      "significance": "הסיפור מדגיש כי לצד צמיחה והוצאות AI, משקיעים בשוק החוב בוחנים גם ממשל תאגידי, ניהול סיכונים ותכנון succession.",
+      "source_ids": [
+        "cnbc_nvidia_rating"
+      ]
+    },
+    {
+      "id": "asia-markets",
+      "slug": "asia-markets-rebound-nov26",
+      "title": "בורסות אסיה התאוששו לאחר יום של ירידות חדות במניות הטכנולוגיה",
+      "dek": "מניות שבבים הובילו את העליות, בעוד המשקיעים בחנו מחדש את חששות ה-AI ואת הצעות המכסים האמריקאיות.",
+      "category": "שווקים",
+      "type": "market",
+      "importance": 4,
+      "published_at": "2026-11-26T05:20:00Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "בורסות אסיה התאוששו ביום חמישי, כאשר מניות טכנולוגיה ושבבים הובילו את העליות. לפי דיווח The Straits Times, מדדי טוקיו, סיאול, טאיפיי והונג קונג עלו ביותר מ-1% במהלך המסחר."
+        },
+        {
+          "type": "paragraph",
+          "text": "ההתאוששות מגיעה לאחר תנודתיות שנבעה מחששות לגבי היקף ההשקעות בתשתיות AI, התשואה עליהן וציפיות לריבית גבוהה יותר. מניות שבבים ומניות הקשורות לתשתיות מחשוב היו בין המובילות בתנועה."
+        },
+        {
+          "type": "paragraph",
+          "text": "הצעות המכסים החדשות של ארה״ב לא גררו תגובה משמעותית בשווקים האזוריים בשעות המסחר המתוארות בדיווח, אך אי-ודאות לגבי השקעות AI ומדיניות סחר נותרה ברקע."
+        }
+      ],
+      "significance": "העליות מצביעות על התאוששות נקודתית לאחר ירידות, אך אינן מספקות עדיין הוכחה לשינוי מגמה בשוק הטכנולוגיה.",
+      "source_ids": [
+        "straits_market"
+      ]
+    },
+    {
+      "id": "us-home-sales",
+      "slug": "us-new-home-sales-october",
+      "title": "מכירות הבתים החדשים בארה״ב הגיעו לקצב של 701 אלף באוקטובר",
+      "dek": "הנתון עלה לעומת ספטמבר, אך טווח אי-הוודאות רחב ואינו מאפשר לקבוע שהשינוי החודשי מובהק סטטיסטית.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 3,
+      "published_at": "2026-11-25",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "מכירות בתים חדשים בארה״ב הגיעו באוקטובר לקצב שנתי מנוכה עונתיות של 701 אלף יחידות, לעומת 614 אלף בספטמבר, לפי הלשכה למפקד האוכלוסין ומשרד השיכון. מחיר המכירה החציוני היה 391,300 דולר, ירידה של 3.2% לעומת שנה קודם."
+        },
+        {
+          "type": "paragraph",
+          "text": "הנתון החודשי מצביע על עלייה של 14.2%, אך טווח האי-ודאות של 90% סביב השינוי הוא ±22.6% וכולל אפס. לכן אין מספיק ראיות סטטיסטיות לקבוע שהעלייה החודשית בפועל שונה מאפס."
+        },
+        {
+          "type": "paragraph",
+          "text": "בסוף אוקטובר היו 470 אלף בתים חדשים למכירה, המספקים היצע של שמונה חודשים בקצב המכירות הנוכחי. הנתונים מדגישים את השילוב בין שוק שמנסה להתאושש לבין תנאי מימון ומחירים שממשיכים להכביד על קונים."
+        }
+      ],
+      "significance": "הנתון החיובי לכאורה צריך להיקרא בזהירות: טווח האי-ודאות רחב, ומדדי מחיר והיצע עדיין מצביעים על אתגרי affordability.",
+      "source_ids": [
+        "census_newhome"
+      ]
+    },
+    {
+      "id": "eu-critical-medicines",
+      "slug": "eu-critical-medicines-act",
+      "title": "הפרלמנט האירופי אישר את חוק התרופות הקריטיות",
+      "dek": "החוק נועד להרחיב ייצור תרופות באירופה, לקדם פרויקטים אסטרטגיים ולהעדיף אספקה לשוק האירופי.",
+      "category": "מדיניות",
+      "type": "news",
+      "importance": 3,
+      "published_at": "2026-11-25",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "הפרלמנט האירופי אישר את חוק התרופות הקריטיות, שנועד לחזק את היכולת לייצר תרופות ומרכיבים פעילים באיחוד ולצמצם תלות בספקים מחוץ לאירופה. ההצעה אושרה ברוב של 592 תומכים, 35 מתנגדים ו-30 נמנעים."
+        },
+        {
+          "type": "paragraph",
+          "text": "החוק קובע קריטריונים לפרויקטים אסטרטגיים שיכולים לקבל מימון לאומי או אירופי להקמת, הרחבת או מודרניזציה של ייצור. חברות שיקבלו תמיכה יידרשו להעדיף אספקה לשוק האירופי, והמדינות יוכלו להשתמש בהליכי רכש משותפים לתרופות קריטיות."
+        },
+        {
+          "type": "paragraph",
+          "text": "החקיקה משתלבת במאמץ רחב יותר להתמודד עם מחסור בתרופות, לחזק שרשראות אספקה ולשפר את היכולת של אירופה להבטיח זמינות של תרופות חיוניות."
+        }
+      ],
+      "significance": "החוק עשוי להשפיע על השקעות בתעשיית התרופות, על רכש ציבורי ועל האופן שבו חברות מתעדפות אספקה בין שווקים.",
+      "source_ids": [
+        "brussels_times_meds",
+        "agence_europe_meds"
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "id": "brief-brazil-tariffs",
+      "title": "ברזיל: הצעות המכסים החדשות של ארה״ב אינן מקובלות",
+      "summary": "ממשלת ברזיל הודיעה כי היא אינה שוללת צעדים הדדיים בעקבות הצעה למכס של 10% על מטוסים מתוצרת Embraer ועל מכסים נוספים על סוכר. ברזיל אומרת שהיא מעדיפה פתרון במשא ומתן.",
+      "category": "סחר",
+      "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals",
+      "source_ids": [
+        "brazil_tariffs"
+      ]
+    },
+    {
+      "id": "brief-singapore-tariffs",
+      "title": "סינגפור מביעה אכזבה מהצעת המכסים האמריקאית",
+      "summary": "סינגפור טוענת כי חקירת USTR אינה משקפת את מבנה הכלכלה הפתוחה שלה. ההצעה כוללת מכס של עד 20%, והמדינה הודיעה שתמשיך במגעים.",
+      "category": "סחר",
+      "url": "https://www.straitstimes.com/business/singapore-very-disappointed-by-proposed-us-tariffs-says-move-overlooks-its-economic-structure",
+      "source_ids": [
+        "singapore_tariffs"
+      ]
+    },
+    {
+      "id": "brief-india-tariff-cap",
+      "title": "הצעת ארה״ב: מכס של 17% על הודו אם יושג הסכם, 25% בלעדיו",
+      "summary": "הצעת USTR מציבה תקרה נמוכה יותר למכס אם יושג הסכם סחר. הודו דוחה את טענת עודף כושר הייצור וממשיכה במגעים; המהלך עדיין הצעה ולא הסכם חתום.",
+      "category": "סחר",
+      "url": "https://www.newindianexpress.com/business/2026/Nov/25/25-proposed-us-tariffs-india-rejects-excess-capacity-charge-seeks-early-trade-deal",
+      "source_ids": [
+        "india_tariff_cap",
+        "india_tariff_response"
+      ]
+    },
+    {
+      "id": "brief-eu-aid",
+      "title": "האיחוד האירופי האריך את מסגרת הסיוע לעסקים שנפגעו ממשבר האנרגיה עד יוני 2027",
+      "summary": "המסגרת מאפשרת למדינות להמשיך סיוע ממוקד לענפים חשופים, ובהם חקלאות, דיג, תחבורה ותעשיות עתירות אנרגיה. לפי הדיווח, נוספה אפשרות לסיוע של עד 50 אלף אירו למוטב בתקופה הנוספת.",
+      "category": "מדיניות",
+      "url": "https://www.eunews.it/en/2026/11/25/the-commission-has-extended-state-aid-for-european-businesses-affected-by-the-energy-crisis-by-a-further-six-months/",
+      "source_ids": [
+        "eunews_aid"
+      ]
+    },
+    {
+      "id": "brief-eu-summit",
+      "title": "מנהיגי האיחוד האירופי מתכנסים לדיון בתקציב הרב-שנתי ובמימון אוקראינה",
+      "summary": "הפסגה המיוחדת מתוכננת ל-26–27 בנובמבר. סדר היום כולל את התקציב הרב-שנתי ואת סוגיית מימון אוקראינה; לא מדובר עדיין בהחלטות שהתקבלו.",
+      "category": "מדיניות",
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/",
+      "source_ids": [
+        "eu_council_summit"
+      ]
+    },
+    {
+      "id": "brief-india-activity",
+      "title": "ה-RBI: פעילות הודו נותרה עמידה באוקטובר, אך האינפלציה עלתה",
+      "summary": "לפי דיווח על עלון הבנק המרכזי, מדדי פעילות, גביית GST, ביקוש לחשמל ויצוא התחזקו באוקטובר, בעוד האינפלציה לצרכן עלתה ל-6.1%.",
+      "category": "עולם",
+      "url": "https://www.moneycontrol.com/news/business/banks/festive-demand-industrial-activity-keep-india-s-economy-resilient-in-october-says-rbi-bulletin-14089035.html",
+      "source_ids": [
+        "india_activity"
+      ]
+    },
+    {
+      "id": "brief-coffee",
+      "title": "מחירי הקפה בהודו ירדו ב-5%-19% מאז תחילת אוקטובר",
+      "summary": "היצע צפוי גבוה יותר בברזיל ובווייטנאם, יבול חדש ודרישה חלשה לוחצים על מחירי הקפה, ומקשים על מגדלים בקארנאטקה במהלך הקטיף.",
+      "category": "סחורות",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/coffee-prices-ease-on-rising-global-supplies-weak-demand/article71742703.ece",
+      "source_ids": [
+        "coffee_businessline"
+      ]
+    },
+    {
+      "id": "brief-fragrance-cartel",
+      "title": "האיחוד האירופי ובריטניה קנסו חברות בענף הבשמים ביותר מ-570 מיליון אירו",
+      "summary": "הקנסות הוטלו על Firmenich, Givaudan ו-IFF בעקבות חילופי מידע מסחרי רגיש, לרבות מחירים ועלויות, בשנים 2019-2023. הרשויות טוענות שההתנהלות עלולה הייתה להעלות את עלויות מוצרי הצריכה.",
+      "category": "צרכנות",
+      "url": "https://us.fashionnetwork.com/news/Eu-uk-fine-fragrance-firms-over-570-million-euros-for-international-cartel,1888329.html",
+      "source_ids": [
+        "fragrance_cartel"
+      ]
+    },
+    {
+      "id": "brief-women-economic-abuse",
+      "title": "מחקר: כ-105 אלף נשים בישראל חוו התעללות כלכלית",
+      "summary": "נתון ממחקר ERI מ-2024, שהובא בדיווח Jerusalem Post, מצביע על כ-4% מהנשים בגיל 18-65. התופעה כוללת שליטה בחשבונות, הגבלת אשראי או מניעת עבודה.",
+      "category": "ישראל",
+      "url": "https://www.jpost.com/israel-news/article-916123",
+      "source_ids": [
+        "women_abuse"
+      ]
+    },
+    {
+      "id": "brief-reservists-business",
+      "title": "תוכנית מסייעת לעסקים של משרתי מילואים עצמאים",
+      "summary": "העמותה Excelerate דיווחה כי תוכנית הכשרה וליווי חינמית סייעה ל-90 עצמאים במילואים, בעוד כ-400 נוספים ממתינים. הנתונים מבוססים על דיווח העמותה כפי שפורסם ב-Jerusalem Post.",
+      "category": "ישראל",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-916145",
+      "source_ids": [
+        "reservists_program"
+      ]
+    },
+    {
+      "id": "brief-nvidia-israel",
+      "title": "פעילות Nvidia בישראל נותרת משמעותית לענף הטכנולוגיה המקומי",
+      "summary": "Al Jazeera מדווחת על כ-6,000 עובדים בשבעה מרכזי מו״פ בישראל ועל תוכניות להרחבת הקמפוס. בדיווח מיוחסת לבנק ישראל הערכה לגבי תרומת הפעילות לצמיחה; לא נפתח כאן המקור הראשוני לאותה הערכה.",
+      "category": "טכנולוגיה",
+      "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia",
+      "source_ids": [
+        "nvidia_israel"
+      ]
+    }
+  ],
+  "source_registry": [
+    {
+      "id": "toi_pension",
+      "name": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/israel-eyes-looser-pension-rules-tougher-taxes-on-emigrants-to-refill-emptying-coffers/",
+      "kind": "media",
+      "published_at": "2026-11-25",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "הצעות בשלבי דיון, לא חקיקה מאושרת"
+    },
+    {
+      "id": "defense_budget",
+      "name": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/11/israel-increases-defense-budget-by-5-billion-as-concerns-continue-over-future-funding/",
+      "kind": "media",
+      "published_at": "2026-11-25T17:30:00Z",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "דיווח יחיד שנמצא על אישור התוספת"
+    },
+    {
+      "id": "strauss_pr",
+      "name": "Strauss Group / PRNewswire",
+      "url": "https://www.prnewswire.com/il/news-releases/strauss-group-reports-strong-q3-2026-results-net-income-of-nis-212-million-up-approx-42-302950358.html",
+      "kind": "primary",
+      "published_at": "2026-11-25T09:30:00Z",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "נתונים לא-GAAP כפי שהחברה דיווחה"
+    },
+    {
+      "id": "cnbc_pce",
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "kind": "media",
+      "published_at": "2026-11-25T13:31:45Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "cnn_gdp",
+      "name": "CNN Business",
+      "url": "https://www.cnn.com/2026/11/25/economy/us-pce-inflation-spending-gdp",
+      "kind": "media",
+      "published_at": "2026-11-25T13:44:31Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "cnbc_tariff",
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "kind": "media",
+      "published_at": "2026-11-25T13:11:09Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "aljazeera_tariff",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target",
+      "kind": "media",
+      "published_at": "2026-11-25T14:54:44Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "fed_beige",
+      "name": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202611-summary.htm",
+      "kind": "primary",
+      "published_at": "2026-11-25",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "דוח אזורי רשמי; מידע נאסף עד 16 בנובמבר"
+    },
+    {
+      "id": "yonhap_bok",
+      "name": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261126001253320",
+      "kind": "media",
+      "published_at": "2026-11-26T04:17:23Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "businesskorea_bok",
+      "name": "BusinessKorea",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=282266",
+      "kind": "media",
+      "published_at": "2026-11-26T02:36:59Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "destatis",
+      "name": "Destatis",
+      "url": "https://destatis.de/EN/Press/2026/11/PE26_409_811.html",
+      "kind": "primary",
+      "published_at": "2026-11-25T07:00:08Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "guardian_uk_food",
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+      "kind": "media",
+      "published_at": "2026-11-25T19:25:57Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "businessstandard_rbi",
+      "name": "Business Standard",
+      "url": "https://www.business-standard.com/economy/news/rbi-brings-back-60-tonnes-of-gold-in-six-months-domestic-share-hits-84-126112501199_1.html",
+      "kind": "media",
+      "published_at": "2026-11-25T20:39:03+05:30",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "italy_reuters_mirror",
+      "name": "Reuters (סינדיקציה)",
+      "url": "https://lufkindailynews.com/news/reuters/business/in-olive-branch-to-banks-italy-plans-to-drop-curbs-home-renovation-tax-credits/article_6e1c025e-a5f3-5986-bf73-a05ff696d73d.html",
+      "kind": "media",
+      "published_at": "2026-11-25T13:54:54-06:00",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "הכתבה נקראה דרך אתר סינדיקציה; Reuters הישיר חסום"
+    },
+    {
+      "id": "cnbc_nvidia_rating",
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "kind": "media",
+      "published_at": "2026-11-26T02:57:32Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "straits_market",
+      "name": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/asian-stocks-enjoy-another-bounce-as-tech-holds-court",
+      "kind": "media",
+      "published_at": "2026-11-26T05:20:00Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "census_newhome",
+      "name": "US Census Bureau / HUD",
+      "url": "https://www.census.gov/construction/nrs/current/",
+      "kind": "data",
+      "published_at": "2026-11-25",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "הנתון החודשי 14.2% אינו מובהק סטטיסטית לפי טווח האי-ודאות"
+    },
+    {
+      "id": "brussels_times_meds",
+      "name": "The Brussels Times",
+      "url": "https://www.brusselstimes.com/2422910/new-eu-legislation-aims-to-boost-critical-medicine-supply-and-cut-costs",
+      "kind": "media",
+      "published_at": "2026-11-25",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "agence_europe_meds",
+      "name": "Agence Europe",
+      "url": "https://agenceurope.eu/en/bulletin/article/13990/17/critical-medicines-act-european-parliament-gives-green-light",
+      "kind": "media",
+      "published_at": "2026-11-25",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "brazil_tariffs",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals",
+      "kind": "media",
+      "published_at": "2026-11-26T04:47:47Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "singapore_tariffs",
+      "name": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/singapore-very-disappointed-by-proposed-us-tariffs-says-move-overlooks-its-economic-structure",
+      "kind": "media",
+      "published_at": "2026-11-26T04:30:00Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "india_tariff_cap",
+      "name": "The New Indian Express",
+      "url": "https://www.newindianexpress.com/business/2026/Nov/25/25-proposed-us-tariffs-india-rejects-excess-capacity-charge-seeks-early-trade-deal",
+      "kind": "media",
+      "published_at": "2026-11-25T19:38:33Z",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "india_tariff_response",
+      "name": "India Today",
+      "url": "https://www.indiatoday.in/india/story/us-proposes-tariffs-of-up-to-25-on-india-6-other-nations-china-faces-40-rate-3046790-2026-11-25",
+      "kind": "media",
+      "published_at": "2026-11-25T19:06:49+05:30",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "eunews_aid",
+      "name": "Eunews",
+      "url": "https://www.eunews.it/en/2026/11/25/the-commission-has-extended-state-aid-for-european-businesses-affected-by-the-energy-crisis-by-a-further-six-months/",
+      "kind": "media",
+      "published_at": "2026-11-25T16:11:35+01:00",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "eu_council_summit",
+      "name": "European Council",
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/",
+      "kind": "institution",
+      "published_at": "2026-11-26",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "סדר יום של מפגש מתוכנן; לא החלטות"
+    },
+    {
+      "id": "india_activity",
+      "name": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/news/business/banks/festive-demand-industrial-activity-keep-india-s-economy-resilient-in-october-says-rbi-bulletin-14089035.html",
+      "kind": "media",
+      "published_at": "2026-11-25T19:46:19+05:30",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "coffee_businessline",
+      "name": "The Hindu BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/coffee-prices-ease-on-rising-global-supplies-weak-demand/article71742703.ece",
+      "kind": "media",
+      "published_at": "2026-11-25T19:22:24+05:30",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "fragrance_cartel",
+      "name": "FashionNetwork (AFP)",
+      "url": "https://us.fashionnetwork.com/news/Eu-uk-fine-fragrance-firms-over-570-million-euros-for-international-cartel,1888329.html",
+      "kind": "media",
+      "published_at": "2026-11-25T17:24:37+01:00",
+      "checked_at": "2026-11-26T06:15:24Z"
+    },
+    {
+      "id": "women_abuse",
+      "name": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-916123",
+      "kind": "media",
+      "published_at": "2026-11-25T16:25:53",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "נתון מבוסס מחקר ERI מ-2024 כפי שצוטט בדיווח"
+    },
+    {
+      "id": "reservists_program",
+      "name": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-916145",
+      "kind": "media",
+      "published_at": "2026-11-25T20:09:59Z",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "הנתונים מבוססים על דיווח העמותה"
+    },
+    {
+      "id": "nvidia_israel",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia",
+      "kind": "media",
+      "published_at": "2026-11-25T13:04:17Z",
+      "checked_at": "2026-11-26T06:15:24Z",
+      "note": "הערכת תרומה לצמיחה מיוחסת לבנק ישראל בדיווח; המקור הראשוני לא נפתח"
+    }
+  ],
+  "editor_note": "מהדורה שנחקרה ונערכה ל-26 בנובמבר 2026. 15 כתבות ו-11 מבזקים. המקורות הראשוניים הועדפו היכן שניתן. אישור תוספת תקציב הביטחון נשען על דיווח יחיד; הצעות הפנסיה ומס היציאה עדיין בדיון; מכירות הבתים בארה״ב מוצגות עם הסתייגות שטווח האי-ודאות אינו מובהק. לא פורסם צילום מצב מספרי של שוק ההון ללא אימות נוסף. כתבת Reuters על איטליה נקראה דרך סינדיקציה; Reuters הישיר חסום."
+}
