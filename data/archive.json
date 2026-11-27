@@ -2,6 +2,14 @@
   "schema_version": "1.0",
   "editions": [
     {
+      "date": "2026-11-27",
+      "title": "הון | מהדורת הכלכלה",
+      "url": "data/editions/2026-11-27.json",
+      "featured_story_id": "shekel-dollar",
+      "story_count": 12,
+      "brief_count": 11
+    },
+    {
       "date": "2026-11-26",
       "title": "הון | מהדורת הכלכלה",
       "url": "data/editions/2026-11-26.json",
