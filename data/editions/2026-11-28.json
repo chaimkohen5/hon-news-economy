@@ -433,9 +433,9 @@
       "title": "Salesforce מציגה תחזית גבוהה יותר לרכישות מקוונות בבלק פריידיי",
       "summary": "בדיווח Reuters הובאו נתוני Salesforce שלפיהם היקף הרכישות בארה״ב צפוי להגיע ל-18.7 מיליארד דולר ול-83 מיליארד בעולם; המדידה שונה מזו של Adobe ולכן אין להשוות את המספרים ישירות.",
       "category": "צרכנות",
-      "url": "https://investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "url": "https://in.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5728678",
       "source_ids": [
-        "blackfriday_reuters"
+        "salesforce_reuters"
       ]
     }
   ],
@@ -635,11 +635,11 @@
     {
       "id": "salesforce_reuters",
       "name": "Reuters via Investing.com",
-      "url": "https://investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "url": "https://in.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5728678",
       "kind": "media",
       "published_at": "2026-11-28T00:10:17Z",
       "checked_at": "2026-11-28T06:40:00Z",
-      "note": "נתוני Salesforce מתוך כתבת Reuters; אומדן נפרד מאומדן Adobe"
+      "note": "סינדיקציה Reuters; אומדן Salesforce נפרד מאומדן Adobe."
     }
   ],
   "editor_note": "מהדורת שבת 28.11.2026. המחקר התמקד בעדכונים מאז מהדורת 27 בנובמבר, עם דגש על סוף יום המסחר ביום שישי ועל פרסומים מאוחרים. 12 כתבות ו-9 מבזקים. מקורות Reuters הישירים נחסמו במספר מקרים, והשתמשנו בסינדיקציות נגישות; נתוני שוק נבדקו לפי זמן. בדיווח BNN Bloomberg על העלייה השבועית בארה״ב הופיע מספר שלא תאם ל-Yahoo Finance, ולכן המהדורה נמנעה מנתון שבועי והשתמשה רק בשינויי יום שישי. France Q2 was revised to +0.02%, so the edition does not adopt the technical-recession label without qualification. נתוני Salesforce ו-Adobe לגבי מכירות מקוונות מבוססים על מתודולוגיות שונות. דוח זרמי ההון בהודו מסומן כזמני."
