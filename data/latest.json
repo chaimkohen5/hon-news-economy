@@ -437,6 +437,16 @@
       "source_ids": [
         "salesforce_reuters"
       ]
+    },
+    {
+      "id": "brief-china-pmi",
+      "title": "ה-PMI התעשייתי הרשמי בסין צפוי להישאר מתחת ל-50 בנובמבר",
+      "summary": "תחזית Reuters של 13 כלכלנים מצביעה על 49.4, לעומת 49.3 באוקטובר; הנתון צפוי להתפרסם ביום שני והוא עדיין תחזית, לא תוצאה.",
+      "category": "עולם",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-factory-slump-likely-extends-071500659.html",
+      "source_ids": [
+        "china_pmi_reuters"
+      ]
     }
   ],
   "watchlist": [
@@ -640,6 +650,15 @@
       "published_at": "2026-11-28T00:10:17Z",
       "checked_at": "2026-11-28T06:40:00Z",
       "note": "סינדיקציה Reuters; אומדן Salesforce נפרד מאומדן Adobe."
+    },
+    {
+      "id": "china_pmi_reuters",
+      "name": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-factory-slump-likely-extends-071500659.html",
+      "kind": "media",
+      "published_at": "2026-11-27T07:15:00Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "תחזית סקר Reuters של 13 כלכלנים; לא נתון PMI בפועל"
     }
   ],
   "editor_note": "מהדורת שבת 28.11.2026. המחקר התמקד בעדכונים מאז מהדורת 27 בנובמבר, עם דגש על סוף יום המסחר ביום שישי ועל פרסומים מאוחרים. 12 כתבות ו-9 מבזקים. מקורות Reuters הישירים נחסמו במספר מקרים, והשתמשנו בסינדיקציות נגישות; נתוני שוק נבדקו לפי זמן. בדיווח BNN Bloomberg על העלייה השבועית בארה״ב הופיע מספר שלא תאם ל-Yahoo Finance, ולכן המהדורה נמנעה מנתון שבועי והשתמשה רק בשינויי יום שישי. France Q2 was revised to +0.02%, so the edition does not adopt the technical-recession label without qualification. נתוני Salesforce ו-Adobe לגבי מכירות מקוונות מבוססים על מתודולוגיות שונות. דוח זרמי ההון בהודו מסומן כזמני."
