@@ -1,0 +1,646 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28T06:40:00Z",
+  "status": "published",
+  "title": "הון | מהדורת הכלכלה",
+  "subtitle": "החדשות הכלכליות המרכזיות בישראל ובעולם",
+  "featured_story_id": "us-markets-rebound",
+  "stories": [
+    {
+      "id": "us-markets-rebound",
+      "slug": "wall-street-black-friday-rebound",
+      "title": "וול סטריט התאוששה ביום מסחר מקוצר, מניות הטכנולוגיה הובילו את העליות",
+      "dek": "מדד S&P 500 עלה 1.6%, הדאו 1.18% והנאסדק 2.3%; הנתונים השבועיים שפורסמו במקורות שונים אינם אחידים ולכן לא נכללו.",
+      "category": "שווקים",
+      "type": "market",
+      "importance": 5,
+      "published_at": "2026-11-27T18:49:50Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "מניות ארה״ב עלו ביום שישי במסחר מקוצר לאחר חופשת חג ההודיה. מדד S&P 500 התחזק ב-1.6%, הדאו ג׳ונס עלה 1.18% והנאסדק הוסיף 2.3%, לפי סיכומי המסחר של BNN Bloomberg ו-Yahoo Finance."
+        },
+        {
+          "type": "paragraph",
+          "text": "העליות בלטו במניות טכנולוגיה ושבבים, לאחר שבוע תנודתי שבו המשקיעים בחנו מחדש את ההוצאות על תשתיות בינה מלאכותית ואת האפשרות שההשקעות לא יניבו את התשואה המצופה. גם העלייה הייתה רחבה יחסית: לפי הדיווח, כארבעה מכל חמישה מניות עלו."
+        },
+        {
+          "type": "paragraph",
+          "text": "המסחר ביום שישי הסתיים מוקדם בשל חג ההודיה. דיווחים שונים הציגו נתוני שבוע שאינם תואמים, ולכן המהדורה מתייחסת רק לשינוי היומי שאומת בשני מקורות."
+        }
+      ],
+      "significance": "ההתאוששות היומית מצביעה על רגיעה זמנית לאחר תנודתיות, אך אינה מבטלת את שאלות השווי והמימון סביב AI.",
+      "source_ids": [
+        "us_bnn",
+        "us_yahoo"
+      ]
+    },
+    {
+      "id": "china-market-support",
+      "slug": "china-stock-rally-policy-support",
+      "title": "הבורסה בסין זינקה לאחר שבייג׳ינג אותתה על תמיכה רחבה יותר בשוק",
+      "dek": "המדדים המרכזיים עלו ביותר מ-3%, לאחר שהממשלה קראה להרחבת תפקידם של משקיעים ממשלתיים לייצוב השוק.",
+      "category": "שווקים",
+      "type": "news",
+      "importance": 5,
+      "published_at": "2026-11-27T08:31:00Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "מדדי המניות בסין זינקו ביום שישי לאחר שמועצת המדינה אותתה כי משקיעים הנתמכים בידי המדינה יפעלו באופן משמעותי יותר לייצוב השוק. מדד שנחאי עלה 4.2% ומדד CSI 300 התחזק 3.7%, לפי דיווח Reuters שפורסם ב-CNA."
+        },
+        {
+          "type": "paragraph",
+          "text": "ההודעה קראה להגדיל את תפקידם של גופי השקעה ארוכי טווח ולחזק את מנגנוני ייצוב השוק. גם מדדי הטכנולוגיה עלו בחדות, אך העליות מגיעות לאחר תקופה של חולשה שנבעה מחששות לגבי ביקוש מקומי, נדל״ן וסיכוני סחר."
+        },
+        {
+          "type": "paragraph",
+          "text": "המהלך משקף את נחישות הרשויות לבלום ירידות, אך אינו מעיד בפני עצמו על שינוי יסודי במצב החברות או בביקוש."
+        }
+      ],
+      "significance": "התערבות ממשלתית עשויה לשפר את הסנטימנט, אך יציבות מתמשכת תלויה גם בביקוש ובהתאוששות הרווחים.",
+      "source_ids": [
+        "china_cna"
+      ]
+    },
+    {
+      "id": "china-industrial-profits",
+      "slug": "china-industrial-profits-october",
+      "title": "רווחי התעשייה בסין צמחו ב-20.1% באוקטובר, אך ההתאוששות אינה אחידה",
+      "dek": "העלייה החדה ביותר מאז מאי נתמכה בענפי ציוד ואלקטרוניקה הקשורים לבינה מלאכותית ובמחירי סחורות.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-27T01:38:00Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "רווחי החברות התעשייתיות הגדולות בסין עלו ב-20.1% באוקטובר לעומת שנה קודם לכן, הקצב המהיר ביותר מאז מאי, לפי נתוני הלשכה הלאומית לסטטיסטיקה שפורסמו ביום שישי ודווחו ב-CNBC."
+        },
+        {
+          "type": "paragraph",
+          "text": "ב-10 החודשים הראשונים של השנה גדלו הרווחים ב-16% לעומת התקופה המקבילה. לפי הדיווח, חלק משמעותי מהשיפור הגיע מענפים הקשורים לתשתיות AI ומעליית מחירי חומרי גלם, בעוד יצרנים המוכרים לצרכן המקומי מתקשים להעביר את עלויות התשומות למחירים."
+        },
+        {
+          "type": "paragraph",
+          "text": "הפער בין הענפים מדגיש את התלות של חלק מההתאוששות בתעשייה בהשקעות טכנולוגיה וביצוא, ולא בהכרח בצריכה המקומית."
+        }
+      ],
+      "significance": "הנתונים מראים התאוששות רווחית בחלק מהתעשייה, לצד חולשה מתמשכת בענפים המשרתים את הצרכן.",
+      "source_ids": [
+        "china_cnbc"
+      ]
+    },
+    {
+      "id": "france-gdp",
+      "slug": "france-q3-gdp-revision",
+      "title": "הכלכלה הצרפתית התכווצה ב-0.2% ברבעון השלישי לאחר עדכון הנתונים",
+      "dek": "העדכון של INSEE העמיק את הירידה ברבעון; הנתון לרבעון השני עודכן ל-0.02%, כמעט ללא צמיחה.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 5,
+      "published_at": "2026-11-27T08:21:40Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "התוצר של צרפת ירד ב-0.2% ברבעון השלישי לעומת הרבעון הקודם, לאחר שהאומדן הראשוני הצביע על ירידה של 0.1%, לפי נתוני INSEE שדווחו ב-Reuters. נתון הרבעון השני עודכן לעלייה של 0.02%, כלומר כמעט אפס."
+        },
+        {
+          "type": "paragraph",
+          "text": "הירידה ברבעון השלישי נבעה בין היתר מחולשה בביקוש המקומי: צריכת משקי הבית עלתה מעט, אך השקעות עסקיות ירדו והסחר החוץ גרע מהתוצר. הנתונים מקשים על הממשלה לעמוד ביעד הצמיחה השנתי שלה."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reuters תיארה את הנתונים ככניסה למיתון טכני, אך לפי הערך שפורסם לרבעון השני הוא חיובי במעט; לכן המהדורה אינה מאמצת את התווית של שני רבעונים שליליים רצופים."
+        }
+      ],
+      "significance": "צמיחה חלשה מצמצמת את מרחב הפעולה של הממשלה במאבק בגירעון ומעמיקה את האתגר התקציבי.",
+      "source_ids": [
+        "france_gdp"
+      ]
+    },
+    {
+      "id": "france-rating-outlook",
+      "slug": "france-sp-negative-outlook",
+      "title": "S&P הורידה את תחזית דירוג האשראי של צרפת לשלילית",
+      "dek": "הסוכנות הותירה את דירוג A+/A-1 ללא שינוי, אך הזהירה מפני לחצים תקציביים וחוסר יציבות פוליטית.",
+      "category": "מדיניות",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-27T22:12:16Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "S&P שינתה את תחזית דירוג האשראי של צרפת מיציבה לשלילית, תוך הותרת הדירוג A+/A-1 ללא שינוי. הסוכנות ציינה את הלחצים התקציביים, צמיחה חלשה ועלויות ריבית גבוהות יותר, לפי Reuters."
+        },
+        {
+          "type": "paragraph",
+          "text": "הסוכנות מעריכה שהגירעון עשוי להיות גבוה מהתחזיות הקודמות השנה ובשנה הבאה. היא גם ציינה כי קיטוב פוליטי עלול להקשות על הממשלה להעביר צעדים להפחתת הגירעון."
+        },
+        {
+          "type": "paragraph",
+          "text": "העדכון מגיע באותו יום שבו פורסם כי התוצר הצרפתי התכווץ ברבעון השלישי, ומוסיף לחץ על הממשלה לקדם תקציב 2027."
+        }
+      ],
+      "significance": "תחזית דירוג שלילית עשויה להעלות את תשומת הלב של משקיעים לסיכון הפיסקלי ולעלות המימון של צרפת.",
+      "source_ids": [
+        "france_sp"
+      ]
+    },
+    {
+      "id": "germany-jobs",
+      "slug": "germany-unemployment-november",
+      "title": "האבטלה בגרמניה עלתה מעבר לציפיות בנובמבר",
+      "dek": "מספר המובטלים המתואם עונתית עלה ל-3.025 מיליון, בעוד שיעור האבטלה נשאר 6.4%.",
+      "category": "עולם",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-27T08:58:09Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "מספר המובטלים בגרמניה עלה בנובמבר ב-9,000 ל-3.025 מיליון, לפי נתונים מתואמים עונתית של סוכנות התעסוקה. העלייה הייתה גדולה מהתחזית, והמספר המתואם עבר את רף שלושה מיליון."
+        },
+        {
+          "type": "paragraph",
+          "text": "שיעור האבטלה המתואם נשאר 6.4%. הנתונים מצביעים על שוק עבודה חלש, גם לאחר שהכלכלה רשמה צמיחה מתונה ברבעון השלישי."
+        },
+        {
+          "type": "paragraph",
+          "text": "מספר המשרות הפנויות שנרשמו בסוכנות הגיע ל-646 אלף, 23 אלף יותר מאשר שנה קודם, אך הנתון אינו מצביע על התאוששות רחבה בגיוס."
+        }
+      ],
+      "significance": "שוק עבודה חלש משקף את הקושי של הכלכלה הגרמנית להתאושש ומכביד על הצריכה המקומית.",
+      "source_ids": [
+        "germany_reuters"
+      ]
+    },
+    {
+      "id": "singapore-wages",
+      "slug": "singapore-real-income-growth-2026",
+      "title": "הצמיחה בשכר הריאלי בסינגפור האטה ב-2026",
+      "dek": "השכר הריאלי החציוני עלה 2.2%, לעומת 4.1% בשנה הקודמת, ושיעור האבטלה בקרב עובדים שאינם PMET עלה.",
+      "category": "עבודה",
+      "type": "news",
+      "importance": 3,
+      "published_at": "2026-11-27T03:00:00Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "הכנסות העובדים במשרה מלאה בסינגפור המשיכו לעלות השנה, אך בקצב איטי יותר. השכר הריאלי החציוני גדל ב-2.2% ב-2026, לעומת 4.1% ב-2025, לפי נתונים מוקדמים של משרד כוח האדם שפורסמו ביום שישי."
+        },
+        {
+          "type": "paragraph",
+          "text": "השכר החודשי החציוני ברוטו עלה מ-5,775 דולר סינגפורי ל-6,021. בקרב עובדים בשכר נמוך יותר, בקבוצת אחוזון 20, השכר הריאלי עלה 1.3% בלבד, לעומת 3.6% בשנה הקודמת."
+        },
+        {
+          "type": "paragraph",
+          "text": "שיעור האבטלה בקרב עובדים שאינם PMET עלה ל-3.5% מ-2.8%, בעוד שיעור האבטלה בקרב PMET נשאר קרוב לרמת השנה הקודמת. משרד כוח האדם ייחס את ההאטה בין היתר לעלייה מתונה יותר בשכר ולגיוס זהיר."
+        }
+      ],
+      "significance": "הנתונים מצביעים על האטה בשוק העבודה ובקצב השיפור בכוח הקנייה, אף שההכנסה הריאלית עדיין גדלה.",
+      "source_ids": [
+        "singapore_cna"
+      ]
+    },
+    {
+      "id": "india-markets",
+      "slug": "india-market-selloff-week",
+      "title": "הבורסה בהודו סיימה שבוע של ירידות לאחר ארבעה שבועות של עליות",
+      "dek": "ה-Sensex ירד 1.17% ביום שישי וה-Nifty 1.07%, על רקע מימושים, מחירי נפט גבוהים וחולשה במניות מובילות.",
+      "category": "שווקים",
+      "type": "market",
+      "importance": 4,
+      "published_at": "2026-11-27T10:46:17Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "מדדי המניות המרכזיים בהודו ירדו ביום שישי, לאחר שמימושים במניות גדולות ומחירי נפט גבוהים פגעו בשוק. ה-Sensex ירד 989.33 נקודות, או 1.17%, ל-83,339.26, וה-Nifty ירד 1.07% ל-25,607.20."
+        },
+        {
+          "type": "paragraph",
+          "text": "הירידה סיימה רצף של ארבעה שבועות של עליות. במשך השבוע ירד ה-Sensex ב-0.69% וה-Nifty ב-0.75%, בעוד מניות IT, בנקים ואוטו בלטו בירידות."
+        },
+        {
+          "type": "paragraph",
+          "text": "הסיקור המקומי קשר את המימושים למחירי נפט גבוהים, חולשה ברופי והחשש מפני מדיניות הריבית של הבנק המרכזי. אלה הסברים של אנליסטים בשוק ולא סיבה יחידה מוכחת לתנועת המדדים."
+        }
+      ],
+      "significance": "הודו נותרת רגישה לעלויות יבוא האנרגיה ולזרמי הון, בעוד המימושים בולטים לאחר תקופה של עליות.",
+      "source_ids": [
+        "india_hindu",
+        "india_nie"
+      ]
+    },
+    {
+      "id": "ecb-rate-signal",
+      "slug": "ecb-rate-hike-inflation-2027",
+      "title": "נגיד הבונדסבנק מזהיר כי ה-ECB עשוי להידרש להעלאת ריבית נוספת",
+      "dek": "יואכים נגל אמר כי האינפלציה בגוש האירו עשויה להישאר מעל 3% לאורך חלק ניכר מ-2027.",
+      "category": "מדיניות",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-27T13:15:01Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "יואכים נגל, נשיא הבונדסבנק וחבר מועצת המדיניות של הבנק המרכזי האירופי, אמר כי ייתכן שה-ECB יידרש להעלות ריבית כבר בחודש הבא, אם האינפלציה בגוש האירו תישאר מעל 3% למשך חלק ניכר מהשנה הבאה."
+        },
+        {
+          "type": "paragraph",
+          "text": "נגל אמר כי תחזית הבנק מניחה שהאינפלציה תישאר מעל 3% ב-2027, וכי הדבר עשוי לדרוש פעולה נוספת במדיניות המוניטרית. הדברים פורסמו בדיווח Reuters."
+        },
+        {
+          "type": "paragraph",
+          "text": "הדברים אינם החלטת ריבית או התחייבות של ה-ECB; המדיניות נקבעת בידי מועצת הבנק."
+        }
+      ],
+      "significance": "האיתות מחזק את הסיכון שהריבית באירופה תישאר גבוהה או תעלה, אם לחצי המחירים יימשכו.",
+      "source_ids": [
+        "ecb_reuters"
+      ]
+    },
+    {
+      "id": "black-friday-sales",
+      "slug": "black-friday-online-sales-2026",
+      "title": "הקניות המקוונות בבלק פריידיי הגיעו ל-9.7 מיליארד דולר עד הערב",
+      "dek": "נתוני Adobe הצביעו על עלייה של 12.8% עד 6:30 בערב בארה״ב; היקף היום כולו צפוי לעבור 13 מיליארד דולר.",
+      "category": "צרכנות",
+      "type": "news",
+      "importance": 4,
+      "published_at": "2026-11-28T00:10:17Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "הצרכנים בארה״ב הוציאו 9.7 מיליארד דולר ברכישות מקוונות בבלק פריידיי עד 6:30 בערב לפי שעון החוף המזרחי, עלייה של 12.8% לעומת השנה הקודמת, לפי Adobe Analytics."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adobe צופה כי סך הרכישות המקוונות ביום שישי יגיע ל-13–13.4 מיליארד דולר. החברה מעריכה כי הביקוש ימשיך בסוף השבוע וב-Cyber Monday, אך אלה תחזיות ולא נתוני סגירה."
+        },
+        {
+          "type": "paragraph",
+          "text": "הנתונים מצביעים על פעילות מקוונת חזקה, אך אינם משקפים לבדם את התמונה הכוללת של הצריכה או את ההשפעה של אינפלציה ומחירים על משקי הבית."
+        }
+      ],
+      "significance": "הנתון מספק מדד מוקדם לתחילת עונת הקניות, אך עדיין מדובר בנתוני יום חלקיים ובתחזית.",
+      "source_ids": [
+        "blackfriday_reuters"
+      ]
+    },
+    {
+      "id": "nikkei-rebound",
+      "slug": "nikkei-weekly-rebound-chip-stocks",
+      "title": "הניקיי עלה 2.11% ביום שישי וסיכם שבוע של התאוששות",
+      "dek": "מניות השבבים הובילו את העליות; המדד היפני השלים עלייה שבועית של 4%.",
+      "category": "שווקים",
+      "type": "market",
+      "importance": 3,
+      "published_at": "2026-11-28T02:55:15Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "מדד ניקיי 225 עלה ביום שישי 2.11% ל-58,711.11 נקודות, והמדד הרחב Topix עלה 1.73%. העליות הובילו את המדד לסכם שבוע עם עלייה של 4%, לפי QNC News, כאשר נתונים דומים על העלייה היומית הופיעו גם בסיקור The Hindu."
+        },
+        {
+          "type": "paragraph",
+          "text": "מניות הקשורות לשבבים ולבינה מלאכותית הובילו את העליות, לאחר שנפגעו בתחילת החודש מחששות לגבי עלויות תשתית AI והערכת שווי."
+        },
+        {
+          "type": "paragraph",
+          "text": "ההתאוששות מגיעה לצד אי-ודאות לגבי התמחור בענף והמשך סיכוני הסחר, ולכן אינה מעידה בהכרח על שינוי מגמה."
+        }
+      ],
+      "significance": "ההתאוששות במניות השבבים משקפת חזרה זמנית של תיאבון לסיכון, אך הענף עדיין חשוף לתנודתיות.",
+      "source_ids": [
+        "nikkei_qnc",
+        "nikkei_hindu"
+      ]
+    },
+    {
+      "id": "bitcoin-under-60",
+      "slug": "bitcoin-below-60000-black-friday",
+      "title": "ביטקוין ירד מתחת ל-60 אלף דולר למרות העליות בוול סטריט",
+      "dek": "הקריפטו לא השתתף במלואו בהתאוששות של מניות ארה״ב; הביטקוין נסחר סביב 59,781 דולר לפי נתוני סוף יום.",
+      "category": "שווקים",
+      "type": "market",
+      "importance": 3,
+      "published_at": "2026-11-27T22:33:09Z",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "ביטקוין נסוג מתחת לרף 60 אלף דולר ביום שישי, למרות העליות במדדי המניות בארה״ב. לפי נתוני FMP שצוטטו ב-Motley Fool, מחירו ירד ל-59,780.83 דולר, בעוד Ether ירד גם הוא."
+        },
+        {
+          "type": "paragraph",
+          "text": "הביטקוין טיפס במהלך היום מעל 61 אלף דולר, אך העלייה לא החזיקה. הדיווח ציין כי תנודתיות, נזילות נמוכה יחסית בתקופת חג ההודיה ומסחר בנגזרים עשויים להוסיף לתנודות."
+        },
+        {
+          "type": "paragraph",
+          "text": "הנתון מתייחס למועד המדידה שפורסם בסוף יום שישי ואינו מחיר בזמן אמת."
+        }
+      ],
+      "significance": "הפער בין מניות לקריפטו מצביע על כך שתנועות בשוקי סיכון אינן מתואמות באופן מלא בתקופה זו.",
+      "source_ids": [
+        "bitcoin_fool"
+      ]
+    }
+  ],
+  "briefs": [
+    {
+      "id": "brief-kfc",
+      "title": "KFC ישראל נמכרת בכ-2.7 מיליון שקל, בכפוף לאישור בית המשפט",
+      "summary": "לפי דיווחים בכלכליסט וב-ynet שהועברו ב-Tevel, הרשת צברה חובות של כ-50 מיליון שקל; העסקה מותנית באישור בית המשפט.",
+      "category": "חברות",
+      "url": "https://tevel.news/en/p/kfc-israel-sold-to-amir-hamias-for-2-7-million-shekels-efd264",
+      "source_ids": [
+        "kfc_tevel"
+      ]
+    },
+    {
+      "id": "brief-oil-gas",
+      "title": "Brent ירד ל-94.15 דולר והגז באירופה נחלש לקראת ישיבת OPEC+",
+      "summary": "ב-17:15 GMT ביום שישי ירד Brent ב-2.3% והגז האירופי ב-3.3%; ישיבת OPEC+ צפויה ביום ראשון. הנתונים הם נקודת זמן, לא מחיר סגירה.",
+      "category": "אנרגיה",
+      "url": "https://aa.com.tr/en/economy/oil-gas-prices-fall-as-brent-trims-weekly-gains-ahead-of-opec-meeting/4140823",
+      "source_ids": [
+        "oil_aa"
+      ]
+    },
+    {
+      "id": "brief-us-jobs",
+      "title": "הדוח הבא על תעסוקה בארה״ב צפוי להציג תוספת של 90 אלף משרות",
+      "summary": "תחזית כלכלנים לנתון שיפורסם ב-4 בדצמבר היא 90 אלף משרות ושיעור אבטלה של 4.1%; אלה ציפיות ולא נתונים בפועל.",
+      "category": "עולם",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sliding-stock-market-confronts-jobs-110203054.html",
+      "source_ids": [
+        "us_jobs_reuters"
+      ]
+    },
+    {
+      "id": "brief-india-flows",
+      "title": "משקיעים זרים רשמו רכישות נטו של כ-1.30 טריליון רופי בנובמבר",
+      "summary": "נתוני שוק זמניים שפורסמו ב-28 בנובמבר מצביעים על רכישות נטו של כ-129,579 crore מצד FII מול מכירות נטו של 55,454 crore מצד DII; הנתונים זמניים ומבוססים על IANS.",
+      "category": "שווקים",
+      "url": "https://english.punjabkesari.com/business/fii-inflows-in-indian-markets-reach-rs-129579-crore-in-nov-so-far",
+      "source_ids": [
+        "india_fii_ians"
+      ]
+    },
+    {
+      "id": "brief-lumibird",
+      "title": "Thales במגעים לרכישת 51.6% מ-Lumibird לפי שווי של כ-483 מיליון דולר",
+      "summary": "Thales הודיעה על מגעים בלעדיים לרכישת החזקה של 51.6% בחברת הלייזרים Lumibird; העסקה כפופה להמשך הליכים.",
+      "category": "חברות",
+      "url": "https://www.morningstar.com/news/dow-jones/202611271394/lumibird-shares-surge-after-thales-targets-majority-stake-in-483-million-laser-deal",
+      "source_ids": [
+        "lumibird_dj"
+      ]
+    },
+    {
+      "id": "brief-uber",
+      "title": "Uber מחזיקה בכ-87.13% מ-Delivery Hero לאחר תקופת קבלת ההצעות",
+      "summary": "העסקה, בשווי כולל מדווח של כ-14.8 מיליארד דולר, עדיין כפופה לאישורים רגולטוריים; השלמתה צפויה במחצית השנייה של 2027.",
+      "category": "חברות",
+      "url": "https://finance.yahoo.com/news/uber-moves-closer-delivery-hero-163636526.html",
+      "source_ids": [
+        "uber_benzinga"
+      ]
+    },
+    {
+      "id": "brief-dell",
+      "title": "Dell דיווחה על צבר הזמנות AI של 132.3 מיליארד דולר",
+      "summary": "החברה דיווחה על הכנסות רבעוניות של 54.94 מיליארד דולר והעלתה את תחזית ההכנסות השנתית ל-202 מיליארד; הנתונים הובאו ב-GuruFocus דרך Yahoo Finance.",
+      "category": "טכנולוגיה",
+      "url": "https://finance.yahoo.com/news/dell-stocks-jump-5-28-190215807.html",
+      "source_ids": [
+        "dell_gurufocus"
+      ]
+    },
+    {
+      "id": "brief-adobe-weekend",
+      "title": "Adobe צופה 6.1 מיליארד דולר ברכישות מקוונות בשבת ו-6.4 מיליארד ביום ראשון",
+      "summary": "החברה צופה 15.1 מיליארד דולר ב-Cyber Monday ו-47.5 מיליארד בחמשת הימים מחג ההודיה ועד Cyber Monday; התחזיות אינן נתונים בפועל.",
+      "category": "צרכנות",
+      "url": "https://investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "source_ids": [
+        "blackfriday_reuters"
+      ]
+    },
+    {
+      "id": "brief-salesforce",
+      "title": "Salesforce מציגה תחזית גבוהה יותר לרכישות מקוונות בבלק פריידיי",
+      "summary": "בדיווח Reuters הובאו נתוני Salesforce שלפיהם היקף הרכישות בארה״ב צפוי להגיע ל-18.7 מיליארד דולר ול-83 מיליארד בעולם; המדידה שונה מזו של Adobe ולכן אין להשוות את המספרים ישירות.",
+      "category": "צרכנות",
+      "url": "https://investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "source_ids": [
+        "blackfriday_reuters"
+      ]
+    }
+  ],
+  "watchlist": [
+    "4 בדצמבר: דוח התעסוקה של ארה״ב — ציפיות שוק, לא נתון ידוע",
+    "29 בנובמבר: ישיבת OPEC+",
+    "8–9 בדצמבר: החלטת הריבית של הפדרל ריזרב"
+  ],
+  "source_registry": [
+    {
+      "id": "us_bnn",
+      "name": "BNN Bloomberg / Associated Press",
+      "url": "https://bnnbloomberg.ca/markets/2026/11/27/stocks-jump-to-close-out-an-erratic-week-that-was-also-wall-streets-best-in-more-than-a-year",
+      "kind": "media",
+      "published_at": "2026-11-27T18:49:50Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "הנתונים השבועיים בדיווח זה לא תואמים לדיווח Yahoo; במהדורה השתמשנו רק בנתונים יומיים שהוצלבו."
+    },
+    {
+      "id": "us_yahoo",
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+      "kind": "media",
+      "published_at": "2026-11-27T18:07:00Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "china_cna",
+      "name": "Channel NewsAsia / Reuters",
+      "url": "https://www.channelnewsasia.com/business/china-stocks-rally-beijing-stronger-market-support-6586971",
+      "kind": "media",
+      "published_at": "2026-11-27T08:31:00Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "כתבה של CNA המבוססת על Reuters"
+    },
+    {
+      "id": "china_cnbc",
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/amp/2026/11/27/china-industrial-profits-october.html",
+      "kind": "media",
+      "published_at": "2026-11-27T01:38:00Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "france_gdp",
+      "name": "Reuters via Macon / Reuters Connect",
+      "url": "https://www.macon.com/news/nation-world/national/article318275660.html",
+      "kind": "media",
+      "published_at": "2026-11-27T08:21:40Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "סינדיקציה של Reuters; הכתבה מתארת את Q2 כ-0.02% ואת Q3 כ-0.2%-."
+    },
+    {
+      "id": "france_sp",
+      "name": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/p-cuts-france-outlook-negative-221216472.html",
+      "kind": "media",
+      "published_at": "2026-11-27T22:12:16Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "germany_reuters",
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/economy-news/german-unemployment-rises-more-than-expected-in-november-5053161",
+      "kind": "media",
+      "published_at": "2026-11-27T08:58:09Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "סינדיקציה של Reuters"
+    },
+    {
+      "id": "singapore_cna",
+      "name": "Channel NewsAsia",
+      "url": "https://channelnewsasia.com/singapore/real-income-growth-slow-non-pmet-unemployment-labour-report-mom-6585161",
+      "kind": "media",
+      "published_at": "2026-11-27T03:00:00Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "india_hindu",
+      "name": "The Hindu / PTI",
+      "url": "https://thehindu.com/business/markets/stock-markets-snap-two-day-rally-sensex-tanks-989-points-amid-profit-booking/article71750358.ece/amp",
+      "kind": "media",
+      "published_at": "2026-11-27T10:46:17Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "הנתונים מופיעים בתצוגה הגלויה; המאמר מסומן כתוכן למנויים"
+    },
+    {
+      "id": "india_nie",
+      "name": "The New Indian Express",
+      "url": "https://newindianexpress.com/business/2026/Nov/28/midweek-recovery-rally-fizzles-out-sensex-nifty-end-week-in-the-red",
+      "kind": "media",
+      "published_at": "2026-11-28T03:24:10Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "ecb_reuters",
+      "name": "Reuters via WSAU",
+      "url": "https://wsau.com/2026/11/27/ecb-may-have-to-raise-rates-further-as-inflation-stays-above-3",
+      "kind": "media",
+      "published_at": "2026-11-27T13:15:01Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "סינדיקציה של Reuters"
+    },
+    {
+      "id": "blackfriday_reuters",
+      "name": "Reuters via Investing.com",
+      "url": "https://investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "kind": "media",
+      "published_at": "2026-11-28T00:10:17Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "סינדיקציה של Reuters; Adobe ו-Salesforce משתמשות במדידות שונות"
+    },
+    {
+      "id": "nikkei_qnc",
+      "name": "QNC News",
+      "url": "https://qncnews.com/2026/11/28/nikkei-jumps-2-11-per-cent-to-58711-11-as-chip-stocks-lead-end-of-week-rebound-in-tokyo",
+      "kind": "media",
+      "published_at": "2026-11-28T02:55:15Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "nikkei_hindu",
+      "name": "The Hindu / PTI",
+      "url": "https://thehindu.com/business/markets/stock-markets-snap-two-day-rally-sensex-tanks-989-points-amid-profit-booking/article71750358.ece/amp",
+      "kind": "media",
+      "published_at": "2026-11-27T10:46:17Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "נתון העלייה היומית בניקיי מופיע בתצוגה הגלויה של הכתבה"
+    },
+    {
+      "id": "bitcoin_fool",
+      "name": "The Motley Fool via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-nov-27-223309383.html",
+      "kind": "media",
+      "published_at": "2026-11-27T22:33:09Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "kfc_tevel",
+      "name": "Tevel / Calcalist / ynet",
+      "url": "https://tevel.news/en/p/kfc-israel-sold-to-amir-hamias-for-2-7-million-shekels-efd264",
+      "kind": "media",
+      "published_at": "2026-11-27T15:15:08Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "Tevel מציינת כי התוכן סופק אוטומטית ונשען על כלכליסט ו-ynet"
+    },
+    {
+      "id": "oil_aa",
+      "name": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/economy/oil-gas-prices-fall-as-brent-trims-weekly-gains-ahead-of-opec-meeting/4140823",
+      "kind": "media",
+      "published_at": "2026-11-27T20:32:24Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "us_jobs_reuters",
+      "name": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sliding-stock-market-confronts-jobs-110203054.html",
+      "kind": "media",
+      "published_at": "2026-11-27T18:02:03Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "תחזית קונצנזוס, לא נתון בפועל"
+    },
+    {
+      "id": "india_fii_ians",
+      "name": "IANS via Punjab Kesari",
+      "url": "https://english.punjabkesari.com/business/fii-inflows-in-indian-markets-reach-rs-129579-crore-in-nov-so-far",
+      "kind": "media",
+      "published_at": "2026-11-28T05:04:05Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "נתוני זרמים זמניים; IANS מציין שהדיווח מסופק כפי שהתקבל"
+    },
+    {
+      "id": "lumibird_dj",
+      "name": "Dow Jones Newswires via Morningstar",
+      "url": "https://www.morningstar.com/news/dow-jones/202611271394/lumibird-shares-surge-after-thales-targets-majority-stake-in-483-million-laser-deal",
+      "kind": "media",
+      "published_at": "2026-11-27T08:51:00Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "uber_benzinga",
+      "name": "Benzinga via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/uber-moves-closer-delivery-hero-163636526.html",
+      "kind": "media",
+      "published_at": "2026-11-27T16:36:36Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "dell_gurufocus",
+      "name": "GuruFocus via Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/dell-stocks-jump-5-28-190215807.html",
+      "kind": "media",
+      "published_at": "2026-11-27T19:02:15Z",
+      "checked_at": "2026-11-28T06:40:00Z"
+    },
+    {
+      "id": "salesforce_reuters",
+      "name": "Reuters via Investing.com",
+      "url": "https://investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "kind": "media",
+      "published_at": "2026-11-28T00:10:17Z",
+      "checked_at": "2026-11-28T06:40:00Z",
+      "note": "נתוני Salesforce מתוך כתבת Reuters; אומדן נפרד מאומדן Adobe"
+    }
+  ],
+  "editor_note": "מהדורת שבת 28.11.2026. המחקר התמקד בעדכונים מאז מהדורת 27 בנובמבר, עם דגש על סוף יום המסחר ביום שישי ועל פרסומים מאוחרים. 12 כתבות ו-9 מבזקים. מקורות Reuters הישירים נחסמו במספר מקרים, והשתמשנו בסינדיקציות נגישות; נתוני שוק נבדקו לפי זמן. בדיווח BNN Bloomberg על העלייה השבועית בארה״ב הופיע מספר שלא תאם ל-Yahoo Finance, ולכן המהדורה נמנעה מנתון שבועי והשתמשה רק בשינויי יום שישי. France Q2 was revised to +0.02%, so the edition does not adopt the technical-recession label without qualification. נתוני Salesforce ו-Adobe לגבי מכירות מקוונות מבוססים על מתודולוגיות שונות. דוח זרמי ההון בהודו מסומן כזמני."
+}
